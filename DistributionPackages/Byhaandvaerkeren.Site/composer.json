@@ -24,7 +24,8 @@
         "sitegeist/silhouettes": "~1.1",
         "sitegeist/lazybones": "~2.1",
 
-        "neos/nodetypes-contentreferences": "*"
+        "neos/nodetypes-contentreferences": "*",
+        "neos/nodetypes-columnlayouts": "^5.2"
     },
     "extra": {
         "neos": {
