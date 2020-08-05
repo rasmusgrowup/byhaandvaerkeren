@@ -1,0 +1,14 @@
+'Byhaandvaerkeren.Site:Document.AbstractPage':
+  abstract: true
+  superTypes:
+    'Neos.Neos:Document': true
+  childNodes:
+    main:
+      type: 'Neos.Neos:ContentCollection'
+      constraints:
+        nodeTypes:
+          'Byhaandvaerkeren.Site:Constraint.Content.Restricted': false
+  constraints:
+    nodeTypes:
+      'Byhaandvaerkeren.Site:Document.HomePage': false
+      'Byhaandvaerkeren.Site:Constraint.Document.Restricted': false
