@@ -7,6 +7,12 @@
     icon: icon-file-text
     position: 200
     inlineEditable: true
+    inspector:
+      groups:
+        text:
+          label: 'Text'
+          position: 5
+          icon: 'icon-image'
   properties:
     text:
       ui:
@@ -47,3 +53,21 @@
               a: true
       options:
         silhouette: text.free
+    animate:
+      type: string
+      ui:
+        label: 'Animation name'
+        inspector:
+          group: text
+    delay:
+      type: string
+      ui:
+        label: 'Delay animation'
+        inspector:
+          group: text
+    duration:
+      type: string
+      ui:
+        label: 'Animation duration'
+        inspector:
+          group: text

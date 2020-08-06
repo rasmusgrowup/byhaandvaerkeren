@@ -1,0 +1,7 @@
+'Byhaandvaerkeren.Site:Content.Scroll':
+  superTypes:
+    'Neos.Neos:Content': true
+  ui:
+    label: Scroll
+    icon: icon-mouse
+    position: 350

@@ -1,0 +1,13 @@
+prototype(Byhaandvaerkeren.Site:Content.Scroll) < prototype(Neos.Neos:ContentComponent) {
+
+    scroll = Neos.Fusion:ResourceUri {
+        path = 'resource://Byhaandvaerkeren.Site/Public/Frontend/svg/mouse.svg'
+    }
+
+    renderer = afx`
+    <div class="scroll-down">
+        <img src={props.scroll} alt=""/>
+        <span>Scroll ned</span>
+    </div>
+    `
+}

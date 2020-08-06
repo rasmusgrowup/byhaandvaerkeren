@@ -3,7 +3,19 @@ prototype(Byhaandvaerkeren.Site:Content.Text) < prototype(Neos.Neos:ContentCompo
         property = 'text'
     }
 
+    animate = Neos.Neos:Editable {
+        property = 'animate'
+    }
+    delay = Neos.Neos:Editable {
+        property = 'delay'
+    }
+    duration = Neos.Neos:Editable {
+        property = 'duration'
+    }
+
     renderer = afx`
-        <div class="text">{props.text}</div>
+    <div class="text-div">
+        <div class="text" data-aos={props.animate} data-aos-delay={props.delay} data-aos-duration={props.duration}>{props.text}</div>
+    </div>
     `
 }

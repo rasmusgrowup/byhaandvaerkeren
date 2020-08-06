@@ -2,8 +2,19 @@ prototype(Byhaandvaerkeren.Site:Content.Headline) < prototype(Neos.Neos:ContentC
     title = Neos.Neos:Editable {
         property = 'title'
     }
+    animate = Neos.Neos:Editable {
+        property = 'animate'
+    }
+    delay = Neos.Neos:Editable {
+        property = 'delay'
+    }
+    duration = Neos.Neos:Editable {
+        property = 'duration'
+    }
 
     renderer = afx`
-        <div class="headline">{props.title}</div>
+    <div class="headline-div">
+        <div class="headline" data-aos={props.animate} data-aos-delay={props.delay} data-aos-duration={props.duration}>{props.title}</div>
+    </div>
     `
 }

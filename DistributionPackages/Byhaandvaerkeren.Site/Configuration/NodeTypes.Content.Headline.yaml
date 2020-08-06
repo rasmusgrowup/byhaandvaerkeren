@@ -6,7 +6,60 @@
     icon: icon-header
     position: 200
     inlineEditable: true
+    inspector:
+      groups:
+        headline:
+          label: 'Headline'
+          position: 5
+          icon: 'icon-image'
   properties:
     title:
+      ui:
+        inline:
+          editorOptions:
+            placeholder: '<p>Enter text here...</p>'
+            autoparagraph: true
+            linking:
+              anchor: true
+              title: true
+              relNofollow: true
+              targetBlank: true
+            formatting:
+              h1: true
+              h2: true
+              h3: true
+              h4: true
+              h5: true
+              h6: true
+              pre: true
+              underline: true
+              strikethrough: true
+              removeFormat: true
+              left: true
+              right: true
+              center: true
+              justify: true
+              table: true
+              ol: true
+              ul: true
+              a: true
       options:
         silhouette: 'codeq.text.title'
+    animate:
+      type: string
+      ui:
+        label: 'Animation name'
+        inspector:
+          group: headline
+    delay:
+      type: string
+      ui:
+        label: 'Delay animation'
+        inspector:
+          group: headline
+    duration:
+      type: string
+      ui:
+        label: 'Animation duration'
+        inspector:
+          group: headline

@@ -6,6 +6,10 @@ prototype(Byhaandvaerkeren.Site:Collection.FullHeight) < prototype(Neos.Neos:Con
             class = 'full-height-section'
         }
 
+    scroll = Neos.Fusion:ResourceUri {
+    path = 'resource://Byhaandvaerkeren.Site/Public/Frontend/svg/mouse.svg'
+    }
+
     renderer = afx`
     <div>
         <ts:render path="content" />

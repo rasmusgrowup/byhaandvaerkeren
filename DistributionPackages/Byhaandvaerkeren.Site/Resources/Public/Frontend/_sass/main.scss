@@ -30,11 +30,30 @@ $primary: $orange;
 // 6. Custom global styling
 
 main {
+    padding-bottom: 120px;
+
     @media screen and (min-width: $tablet) {
         margin-top: 120px;
+        padding-bottom: 0;
     }
 
     a {
         color: $link-color;
     }
+}
+
+//Custom animations for AOS
+[data-aos="turn-up"] {
+  transform: translateY(200%);
+
+  &.aos-animate {
+    transform: translateY(0);
+  }
+}
+
+[data-aos] {
+    body[data-aos-easing="ease-expo-out"] &,
+        &[data-aos][data-aos-easing="ease-expo-out"] {
+        transition-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+        }
 }

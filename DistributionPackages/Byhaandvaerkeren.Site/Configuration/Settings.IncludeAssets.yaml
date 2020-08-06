@@ -14,9 +14,10 @@ Carbon:
         General:
           Head:
             - main.css
+            - aos.css
           Body:
             - main.js
-
+            - aos.js
       ##
       # Sitegeist.Lazybones required lazysizes, we recommend to include lazysizes javascript
       # from https://github.com/aFarkas/lazysizes into your own fe-build and remove this section
