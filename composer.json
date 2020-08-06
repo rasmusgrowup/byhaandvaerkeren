@@ -3,10 +3,7 @@
     "description": "Best practice skeleton for Neos",
     "config": {
         "vendor-dir": "Packages/Libraries",
-        "bin-dir": "bin",
-        "platform": {
-            "php": "7.3"
-        }
+        "bin-dir": "bin"
     },
     "require": {
         "byhaandvaerkeren/site": "@dev"
