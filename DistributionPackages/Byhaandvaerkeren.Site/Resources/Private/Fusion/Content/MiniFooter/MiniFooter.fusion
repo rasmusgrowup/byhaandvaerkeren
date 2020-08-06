@@ -1,0 +1,9 @@
+prototype(Byhaandvaerkeren.Site:Content.MiniFooter) < prototype(Neos.Neos:ContentComponent) {
+    text = Neos.Neos:Editable {
+        property = 'text'
+    }
+
+    renderer = afx`
+        <footer class="mini-footer">{props.text}</footer>
+    `
+}

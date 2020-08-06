@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="Group_88" data-name="Group 88" transform="translate(-6 -1.825)">
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(6 1.825)" fill="#fff" stroke="#f84c00" stroke-width="2">
+      <circle cx="11.5" cy="11.5" r="11.5" stroke="none"/>
+      <circle cx="11.5" cy="11.5" r="10.5" fill="none"/>
+    </g>
+    <text id="i" transform="translate(15.5 18.325)" fill="#f84c00" font-size="15" font-family="PillGothic300mg-Bold, 'Pill Gothic 300mg'" font-weight="700"><tspan x="0" y="0">i</tspan></text>
+  </g>
+</svg>

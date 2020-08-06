@@ -1,0 +1,47 @@
+.section {
+    padding: 2em 1em;
+
+    @media screen and (min-width: $tablet) {
+        padding: 60px;
+    }
+}
+
+.full-height-section {
+    .container {
+        .column {
+            img {
+                display: block;
+                height: 400px;
+                object-fit: cover;
+                width: 100%;
+            }
+        }
+    }
+
+    @media screen and (min-width: $tablet) {
+        height: calc(100vh - 120px);
+
+        .neos-contentcollection {
+            height: 100%;
+        }
+
+        img {
+            display: block;
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
+
+        .container {
+            height: calc(100vh - 120px);
+
+            .column {
+                img {
+                    display: block;
+                    height: 100%;
+                    object-fit: cover;
+                }
+            }
+        }
+    }
+}

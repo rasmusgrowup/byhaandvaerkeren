@@ -1,0 +1,9 @@
+'Byhaandvaerkeren.Site:Collection.FullHeight':
+  superTypes:
+    'Neos.Neos:Content': true
+    'Neos.Neos:ContentCollection': true
+  ui:
+    group: 'structure'
+    label: Full Height Section
+    icon: 'square'
+    inlineEditable: true

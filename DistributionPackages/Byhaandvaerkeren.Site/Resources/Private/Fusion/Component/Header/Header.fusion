@@ -6,23 +6,43 @@ prototype(Byhaandvaerkeren.Site:Component.Header) < prototype(Neos.Fusion:Compon
         startingPoint = ${site}
         maximumLevels = 2
     }
-
-    ##
-    # If you want to use a default rendering for a menu, you can just use:
-    ##
-    # <Neos.Neos:Menu
-    #     startingPoint={site}
-    #     attributes.class="navigation"
-    #     normal.attributes.class="navigation-item"
-    #     active.attributes.class="navigation-item navigation-item--state-active"
-    #     current.attributes.class="navigation-item navigation-item--state-current"
-    #     />
-    ##
+    logoUri = Neos.Fusion:ResourceUri {
+    path = 'resource://Byhaandvaerkeren.Site/Public/Frontend/img/logo_black.png'
+    }
+    whiteLogoUri = Neos.Fusion:ResourceUri {
+    path = 'resource://Byhaandvaerkeren.Site/Public/Frontend/img/logo_white.png'
+    }
+    gear = Neos.Fusion:ResourceUri {
+    path = 'resource://Byhaandvaerkeren.Site/Public/Frontend/svg/gear.svg'
+    }
+    home = Neos.Fusion:ResourceUri {
+    path = 'resource://Byhaandvaerkeren.Site/Public/Frontend/svg/home.svg'
+    }
+    info = Neos.Fusion:ResourceUri {
+    path = 'resource://Byhaandvaerkeren.Site/Public/Frontend/svg/info.svg'
+    }
+    phone = Neos.Fusion:ResourceUri {
+    path = 'resource://Byhaandvaerkeren.Site/Public/Frontend/svg/phone.svg'
+    }
 
     renderer = afx`
-        <header class="main-header">
-            <a class="logo" href={props.homeLink}>BRAND NAME</a>
-            <Byhaandvaerkeren.Site:Component.Header.MenuItemsRenderer items={props.menuItems} />
+        <header>
+            <nav>
+                <a class="logo" href={props.homeLink}>
+                    <img src={props.logoUri} alt="Byhåndværkeren logo" width="200px"/>
+                    <img src={props.whiteLogoUri} alt="Byhåndværkeren logo" width="200px"/>
+                </a>
+                <div class="navigation-container">
+                    <Byhaandvaerkeren.Site:Component.Header.MenuItemsRenderer items={props.menuItems} />
+                    <div class="kontakt-cta">
+                        <ul>
+                            <li>
+                                <a href="#">Kontakt mig</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
         </header>
     `
 

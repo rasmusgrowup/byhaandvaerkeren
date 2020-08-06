@@ -4,6 +4,6 @@ prototype(Byhaandvaerkeren.Site:Component.DefaultLayout) < prototype(Neos.Fusion
     renderer = afx`
         <Byhaandvaerkeren.Site:Component.Header />
         {props.content}
-        <Byhaandvaerkeren.Site:Component.Footer />
+        <!-- <Byhaandvaerkeren.Site:Component.Footer /> -->
     `
 }

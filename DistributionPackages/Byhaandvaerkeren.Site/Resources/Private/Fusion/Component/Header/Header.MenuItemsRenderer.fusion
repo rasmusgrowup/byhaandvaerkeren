@@ -1,5 +1,8 @@
 prototype(Byhaandvaerkeren.Site:Component.Header.MenuItemsRenderer) < prototype(Neos.Fusion:Component) {
     items = false
+    src = Byhaandvaerkeren.Site:Component.ImageUri {
+        @context.asset = ${q(node).property('image')}
+    }
 
     @if.has = ${this.items}
     renderer = afx`

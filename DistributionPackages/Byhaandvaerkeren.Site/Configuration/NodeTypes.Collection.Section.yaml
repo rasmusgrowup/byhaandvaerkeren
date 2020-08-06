@@ -1,0 +1,29 @@
+'Byhaandvaerkeren.Site:Collection.Section':
+  superTypes:
+    'Neos.Neos:Content': true
+    'Neos.Neos:ContentCollection': true
+  ui:
+    group: 'structure'
+    label: Section
+    icon: 'square'
+    inlineEditable: true
+    inspector:
+      groups:
+        section:
+          label: 'Section'
+          icon: square
+  childNodes:
+    column0:
+      type: 'Neos.Neos:ContentCollection'
+  constraints:
+    nodeTypes:
+      '*': false
+      'Neos.Neos:Content': true
+  properties:
+    bottomPadding:
+      type: boolean
+      ui:
+        label: 'Add bottom padding'
+        reloadIfChanged: true
+        inspector:
+          group: section

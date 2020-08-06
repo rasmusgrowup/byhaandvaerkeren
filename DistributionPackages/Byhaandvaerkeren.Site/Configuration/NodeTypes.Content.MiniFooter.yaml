@@ -1,0 +1,17 @@
+'Byhaandvaerkeren.Site:Content.MiniFooter':
+  superTypes:
+    'Neos.Neos:Content': true
+  ui:
+    label: Mini Footer
+    icon: icon-file-text
+    position: 1000
+    inlineEditable: true
+  properties:
+    text:
+      ui:
+        inline:
+          editorOptions:
+            placeholder: '<p>Enter text here...</p>'
+            hyphens: true
+      options:
+        silhouette: codeq.text.free

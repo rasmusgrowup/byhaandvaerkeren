@@ -10,6 +10,7 @@ $blue: #0080EE;
 $orange: #F84C00;
 $light-orange: #FEDBCC;
 $sand: #FFFBF7;
+$link-color: $orange;
 // Update the sans-serif font family
 $family-sans-serif: "pill-gothic-300mg", "Helvetica", "Arial", sans-serif;
 
@@ -20,4 +21,20 @@ $primary: $orange;
 @import "../node_modules/bulma/bulma";
 
 // 5. Add own stylesheets
-@import "../../../Private/Styles/Header"
+@import "../../../Private/Styles/Fonts";
+@import "../../../Private/Styles/Columns";
+@import "../../../Private/Styles/Header";
+@import "../../../Private/Styles/Sections";
+@import "../../../Private/Styles/Footer";
+
+// 6. Custom global styling
+
+main {
+    @media screen and (min-width: $tablet) {
+        margin-top: 120px;
+    }
+
+    a {
+        color: $link-color;
+    }
+}

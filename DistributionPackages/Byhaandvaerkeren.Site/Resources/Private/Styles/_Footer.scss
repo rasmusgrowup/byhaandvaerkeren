@@ -1,0 +1,13 @@
+.mini-footer {
+
+    @media screen and (min-width: $tablet) {
+        display: block;
+        left: 75px;
+        position: absolute;
+        bottom: 50px;
+
+        p {
+            font-size: .8em;
+        }
+    }
+}
