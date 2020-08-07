@@ -23,7 +23,7 @@
     bottomPadding:
       type: boolean
       ui:
-        label: 'Add bottom padding'
+        label: 'No bottom padding'
         reloadIfChanged: true
         inspector:
           group: section

@@ -10,11 +10,30 @@ h1 {
 
 h2 {
     font-size: 1.75em;
+    line-height: 1.5;
 }
 
 .section {
     p {
         font-size: 1.4em;
+    }
+
+    .headline {
+        margin: 5em auto 0;
+        padding: 0 2em;
+    }
+}
+
+.full-height-section {
+    .section {
+        .text {
+            margin: 1em 0;
+        }
+
+        .headline {
+            margin: 0 2em;
+            padding: 0;
+        }
     }
 }
 
@@ -27,10 +46,24 @@ h2 {
 }
 
 .text {
-    margin: 2em auto;
+    margin: 0 auto;
+    padding: 2em;
 }
 
 @media screen and (min-width: $tablet) {
+    .full-height-section {
+        .section {
+            .text {
+                margin: 2em 2em;
+            }
+
+            .headline {
+                margin: 0 4em;
+                padding: 0;
+            }
+        }
+    }
+
     h1 {
         font-size: 3.5vw;
     }
@@ -38,6 +71,7 @@ h2 {
     h2 {
         font-size: 2vw;
         margin-bottom: .5em;
+        line-height: 1.1;
     }
     /*    .headline {
         margin-bottom: 3em;

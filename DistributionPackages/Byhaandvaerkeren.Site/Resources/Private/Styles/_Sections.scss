@@ -1,8 +1,27 @@
 .section {
-    padding: 2em 1em;
+    padding: 0;
+
+    img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .image-padding {
+        padding: .5em 0;
+    }
 
     @media screen and (min-width: $tablet) {
-        padding: 60px;
+        padding: 6em 0;
+    }
+}
+
+.image-padding {
+    display: block;
+    padding: .5em 0;
+    width: 100%;
+
+    @media screen and (min-width: $tablet) {
+        padding: 0;
     }
 }
 
@@ -12,6 +31,14 @@
         height: 400px;
         object-fit: cover;
         width: 100%;
+    }
+
+    .section {
+        padding: 4em 0;
+    }
+
+    .image-padding {
+        padding: 0;
     }
 
     .container {
@@ -31,6 +58,15 @@
 
     @media screen and (min-width: $tablet) {
         height: calc(100vh - 120px);
+        min-height: 820px;
+
+        .section {
+            height: 100%;
+        }
+
+        .image-padding {
+            padding: 6em;
+        }
 
         .scroll-down {
             align-items: center;
@@ -66,6 +102,7 @@
 
         .container {
             height: calc(100vh - 120px);
+            min-height: 820px;
 
             .column {
                 img {

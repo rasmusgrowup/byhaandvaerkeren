@@ -21,6 +21,26 @@
 }
 
 @media screen and (min-width: $tablet) {
+    .columns-50-50 {
+        display: flex;
+
+        .column {
+            &:first-child, &:last-child {
+                flex-grow: 1;
+            }
+            &:first-child {
+                .image-padding {
+                    padding-right: 3em;
+                }
+            }
+            &:last-child {
+                .image-padding {
+                    padding-left: 3em;
+                }
+            }
+        }
+    }
+
     .columns-33-66 {
         flex-direction: row;
 

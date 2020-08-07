@@ -6,3 +6,22 @@
     label: Image
     icon: icon-picture
     position: 300
+    inspector:
+      groups:
+        image:
+          label: 'Image'
+          position: 500
+          icon: 'icon-image'
+  properties:
+    class:
+      type: boolean
+      ui:
+        label: 'Add padding'
+        inspector:
+          group: image
+    style:
+      type: boolean
+      ui:
+        label: 'Full width'
+        inspector:
+          group: image
