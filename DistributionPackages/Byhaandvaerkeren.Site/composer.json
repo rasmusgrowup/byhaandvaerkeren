@@ -17,7 +17,6 @@
         "carbon/compression": "~2.0",
         "carbon/link": "~1.4",
         "carbon/includeassets": "~3.6",
-        "codeq/unicodenormalizer": "~2.2",
         "flowpack/cachebuster": "~1.0",
         "flowpack/nodetemplates": "~1.2",
         "shel/neos-hyphens": "~1.0",
