@@ -12,9 +12,11 @@ prototype(Byhaandvaerkeren.Site:Content.Headline) < prototype(Neos.Neos:ContentC
         property = 'duration'
     }
 
+    class = ${q(node).property('class') ? 'headline underline' : 'headline'}
+
     renderer = afx`
     <div class="headline-div">
-        <div class="headline" data-aos={props.animate} data-aos-delay={props.delay} data-aos-duration={props.duration}>{props.title}</div>
+        <div class={props.class} data-aos={props.animate} data-aos-delay={props.delay} data-aos-duration={props.duration}>{props.title}</div>
     </div>
     `
 }

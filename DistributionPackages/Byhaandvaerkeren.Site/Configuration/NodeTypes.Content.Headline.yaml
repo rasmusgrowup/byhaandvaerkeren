@@ -63,3 +63,9 @@
         label: 'Animation duration'
         inspector:
           group: headline
+    class:
+      type: boolean
+      ui:
+        label: 'Add animated underline'
+        inspector:
+          group: headline

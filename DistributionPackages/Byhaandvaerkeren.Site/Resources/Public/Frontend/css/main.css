@@ -7133,16 +7133,18 @@ h2 {
   font-size: 1.4em; }
 
 .headline-div, .text-div {
-  overflow: hidden;
+  display: flex;
   max-width: 720px;
-  margin: 0 auto; }
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative; }
 
 .text {
   margin: 2em auto; }
 
 @media screen and (min-width: 769px) {
   h1 {
-    font-size: 3vw; }
+    font-size: 3.5vw; }
   h2 {
     font-size: 2vw;
     margin-bottom: .5em; }
@@ -7331,6 +7333,17 @@ main {
   main a {
     color: #F84C00; }
 
+.underline:after {
+  animation: underline 1s 1s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  background-color: #F84C00;
+  bottom: 8%;
+  content: '';
+  display: block;
+  height: 12px;
+  left: 0;
+  position: absolute;
+  z-index: -1; }
+
 [data-aos="turn-up"] {
   transform: translateY(200%); }
   [data-aos="turn-up"].aos-animate {
@@ -7338,3 +7351,9 @@ main {
 
 body[data-aos-easing="ease-expo-out"] [data-aos], [data-aos][data-aos][data-aos-easing="ease-expo-out"] {
   transition-timing-function: cubic-bezier(0.16, 1, 0.3, 1); }
+
+@keyframes underline {
+  0% {
+    width: 0; }
+  100% {
+    width: 104%; } }

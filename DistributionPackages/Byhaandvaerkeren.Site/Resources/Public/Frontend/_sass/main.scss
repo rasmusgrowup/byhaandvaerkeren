@@ -42,7 +42,21 @@ main {
     }
 }
 
-//Custom animations for AOS
+.underline {
+    &:after {
+        animation: underline 1s 1s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+        background-color: $orange;
+        bottom: 8%;
+        content: '';
+        display: block;
+        height: 12px;
+        left: 0;
+        position: absolute;
+        z-index: -1;
+    }
+}
+
+//Custom animations for AOS and regular animations
 [data-aos="turn-up"] {
   transform: translateY(200%);
 
@@ -56,4 +70,14 @@ main {
         &[data-aos][data-aos-easing="ease-expo-out"] {
         transition-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
         }
+}
+
+@keyframes underline {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: 104%;
+    }
 }
