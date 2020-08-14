@@ -13,6 +13,7 @@
 /flow
 /flow.bat
 .eel_history
+post-receive
 
 # Frontend template
 /Source/CodeQ.Site/Resources/Public/Frontend/node_modules/
