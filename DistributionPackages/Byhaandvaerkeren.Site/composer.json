@@ -1,6 +1,6 @@
 {
     "name": "byhaandvaerkeren/site",
-    "description": "A Neos website",
+    "description": "Byhaandvaerkeren hjemmeside",
     "type": "neos-site",
     "require": {
         "neos/neos": "^5.2",
