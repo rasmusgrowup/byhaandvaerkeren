@@ -5,13 +5,12 @@
  *
  * This fusion prototype is currently not used and just an example.
  */
-prototype(Byhaandvaerkeren.Site:Content.BasicImage) < prototype(Neos.Neos:ContentComponent) {
+prototype(Byhaandvaerkeren.Site:Content.Image) < prototype(Neos.Neos:ContentComponent) {
     src = Neos.Fusion:Case {
         image {
             condition = ${q(node).property('image') ? true : false}
             renderer = Neos.Neos:ImageUri {
                 asset = ${q(node).property('image')}
-                maximumWidth = 900
             }
         }
         dummyImage {

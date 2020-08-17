@@ -4,7 +4,7 @@
  * To better learn Neos take a look at Byhaandvaerkeren.Site:Content.BasicImage,
  * which renders our images as an img tag.
  */
-prototype(Byhaandvaerkeren.Site:Content.Image) < prototype(Neos.Neos:ContentComponent) {
+prototype(Byhaandvaerkeren.Site:Content.LazyImage) < prototype(Neos.Neos:ContentComponent) {
 
     # if the current node has previous siblings it is not the
 	# first content and should be loaded lazy otherwise not
