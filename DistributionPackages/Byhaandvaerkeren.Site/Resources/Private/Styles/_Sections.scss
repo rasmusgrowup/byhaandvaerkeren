@@ -26,6 +26,8 @@
 }
 
 .full-height-section {
+    position: relative;
+    
     img {
         display: block;
         height: 400px;
@@ -34,7 +36,7 @@
     }
 
     .section {
-        padding: 4em 0;
+        padding: 4em 0 2em;
     }
 
     .image-padding {
@@ -62,6 +64,7 @@
 
         .section {
             height: 100%;
+            padding: 4em 0 0;
         }
 
         .image-padding {
