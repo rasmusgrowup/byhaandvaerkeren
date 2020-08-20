@@ -32,6 +32,20 @@
        <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-05T19:43:00+02:00</lastPublicationDateTime>
        <properties/>
       </variant>
+      <node identifier="f9e5a148-c687-4ebc-94aa-2c98366bae84" nodeName="node-95yqsink0lr09">
+       <variant sortingIndex="400" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.MiniFooter" version="22" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2020-08-05T20:20:40+02:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T11:35:23+02:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T11:35:23+02:00</lastPublicationDateTime>
+        <properties>
+         <text __type="string">&lt;p&gt;2020 © Byhandværkeren - +45 23 84 00 71 - Webdesign af &lt;a href=&quot;https://www.growupstudio.dk&quot;&gt;Growup Studio&lt;/a&gt;&lt;/p&gt;</text>
+        </properties>
+       </variant>
+      </node>
       <node identifier="a77cbb76-2184-45a9-af92-c5bd9b0a3e06" nodeName="node-l9l3prdgueqrl">
        <variant sortingIndex="200" workspace="live" nodeType="Neos.NodeTypes.ColumnLayouts:TwoColumn" version="6" removed="" hidden="" hiddenInIndex="">
         <dimensions>
@@ -224,20 +238,6 @@
        </node>
       </node>
      </node>
-     <node identifier="f9e5a148-c687-4ebc-94aa-2c98366bae84" nodeName="node-95yqsink0lr09">
-      <variant sortingIndex="300" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.MiniFooter" version="21" removed="" hidden="" hiddenInIndex="">
-       <dimensions>
-        <language>en</language>
-       </dimensions>
-       <accessRoles __type="array"/>
-       <creationDateTime __type="object" __classname="DateTime">2020-08-05T20:20:40+02:00</creationDateTime>
-       <lastModificationDateTime __type="object" __classname="DateTime">2020-08-05T20:29:17+02:00</lastModificationDateTime>
-       <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-05T20:29:17+02:00</lastPublicationDateTime>
-       <properties>
-        <text __type="string">&lt;p&gt;2020 © Byhandværkeren - +45 23 84 00 71 - Webdesign af &lt;a href=&quot;https://www.growupstudio.dk&quot;&gt;Growup Studio&lt;/a&gt;&lt;/p&gt;</text>
-       </properties>
-      </variant>
-     </node>
     </node>
     <node identifier="c4f63d97-88d3-4285-8d51-95420694f8e9" nodeName="node-3gx7y8ng64z3l">
      <variant sortingIndex="188" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.Page" version="6" removed="" hidden="" hiddenInIndex="">
@@ -264,20 +264,6 @@
        <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-05T14:29:06+02:00</lastPublicationDateTime>
        <properties/>
       </variant>
-      <node identifier="7c0756c7-e50c-48f6-8b2f-5a599b1a9cff" nodeName="node-7860ky1ydv6b4">
-       <variant sortingIndex="300" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.MiniFooter" version="2" removed="" hidden="" hiddenInIndex="">
-        <dimensions>
-         <language>en</language>
-        </dimensions>
-        <accessRoles __type="array"/>
-        <creationDateTime __type="object" __classname="DateTime">2020-08-07T16:24:02+02:00</creationDateTime>
-        <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T16:24:06+02:00</lastModificationDateTime>
-        <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:24:06+02:00</lastPublicationDateTime>
-        <properties>
-         <text __type="string">&lt;p&gt;2020 © Byhandværkeren - +45 23 84 00 71 - Webdesign af &lt;a href=&quot;https://www.growupstudio.dk&quot;&gt;Growup Studio&lt;/a&gt;&lt;/p&gt;</text>
-        </properties>
-       </variant>
-      </node>
       <node identifier="119d596d-62fe-4119-aa6b-d23661b9bda8" nodeName="node-f09s0dlon1eff">
        <variant sortingIndex="200" workspace="live" nodeType="Byhaandvaerkeren.Site:Collection.FullHeight" version="2" removed="" hidden="" hiddenInIndex="">
         <dimensions>
@@ -289,6 +275,20 @@
         <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:22:30+02:00</lastPublicationDateTime>
         <properties/>
        </variant>
+       <node identifier="7c0756c7-e50c-48f6-8b2f-5a599b1a9cff" nodeName="node-7860ky1ydv6b4">
+        <variant sortingIndex="400" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.MiniFooter" version="3" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2020-08-07T16:24:02+02:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T11:36:15+02:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T11:36:15+02:00</lastPublicationDateTime>
+         <properties>
+          <text __type="string">&lt;p&gt;2020 © Byhandværkeren - +45 23 84 00 71 - Webdesign af &lt;a href=&quot;https://www.growupstudio.dk&quot;&gt;Growup Studio&lt;/a&gt;&lt;/p&gt;</text>
+         </properties>
+        </variant>
+       </node>
        <node identifier="3f9c910a-8451-4d7f-9308-9a23af54016e" nodeName="node-l9l3prdgueqrl">
         <variant sortingIndex="200" workspace="live" nodeType="Neos.NodeTypes.ColumnLayouts:TwoColumn" version="2" removed="" hidden="" hiddenInIndex="">
          <dimensions>
@@ -653,6 +653,20 @@
         <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-06T15:52:16+02:00</lastPublicationDateTime>
         <properties/>
        </variant>
+       <node identifier="f0ab0d38-6eb5-47be-83b1-a587c3100810" nodeName="node-j05oi7mgdakit">
+        <variant sortingIndex="400" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.MiniFooter" version="3" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2020-08-07T16:32:53+02:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T11:36:09+02:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T11:36:09+02:00</lastPublicationDateTime>
+         <properties>
+          <text __type="string">&lt;p&gt;2020 © Byhandværkeren - +45 23 84 00 71 - Webdesign af &lt;a href=&quot;https://www.growupstudio.dk&quot;&gt;Growup Studio&lt;/a&gt;&lt;/p&gt;</text>
+         </properties>
+        </variant>
+       </node>
        <node identifier="d1ba013c-0956-4932-ba47-de54a7d78d74" nodeName="node-l9l3prdgueqrl">
         <variant sortingIndex="200" workspace="live" nodeType="Neos.NodeTypes.ColumnLayouts:TwoColumn" version="2" removed="" hidden="" hiddenInIndex="">
          <dimensions>
@@ -855,20 +869,6 @@
          </node>
         </node>
        </node>
-      </node>
-      <node identifier="f0ab0d38-6eb5-47be-83b1-a587c3100810" nodeName="node-j05oi7mgdakit">
-       <variant sortingIndex="300" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.MiniFooter" version="2" removed="" hidden="" hiddenInIndex="">
-        <dimensions>
-         <language>en</language>
-        </dimensions>
-        <accessRoles __type="array"/>
-        <creationDateTime __type="object" __classname="DateTime">2020-08-07T16:32:53+02:00</creationDateTime>
-        <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T16:32:55+02:00</lastModificationDateTime>
-        <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:32:55+02:00</lastPublicationDateTime>
-        <properties>
-         <text __type="string">&lt;p&gt;2020 © Byhandværkeren - +45 23 84 00 71 - Webdesign af &lt;a href=&quot;https://www.growupstudio.dk&quot;&gt;Growup Studio&lt;/a&gt;&lt;/p&gt;</text>
-        </properties>
-       </variant>
       </node>
      </node>
      <node identifier="723644ad-5b32-440d-b732-b4be44498f38" nodeName="node-c9c1lhnivwh7g">
@@ -2264,6 +2264,21 @@
        <lastPublicationDateTime __type="object" __classname="DateTime">2018-06-26T23:23:05+02:00</lastPublicationDateTime>
        <properties/>
       </variant>
+      <node identifier="5e980adb-2a4d-4ec8-b1c9-bbb8a03020bf" nodeName="node-zh0vjllbdgh62">
+       <variant sortingIndex="100" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.BigFooter" version="17" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2020-08-20T11:36:30+02:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T11:37:41+02:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T11:37:41+02:00</lastPublicationDateTime>
+        <properties>
+         <text __type="string">&lt;p&gt;Ups. Du er landet på en side, der ikke eksisterer hos os.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Gå til en anden side, eller tag kontakt til os&lt;/p&gt;</text>
+         <copyright __type="string">&lt;p&gt;2020 © Byhandværkeren - +45 23 84 00 71 - Webdesign af &lt;a href=&quot;https://www.growupstudio.dk&quot;&gt;Growup Studio&lt;/a&gt;&lt;/p&gt;</copyright>
+        </properties>
+       </variant>
+      </node>
      </node>
     </node>
    </node>

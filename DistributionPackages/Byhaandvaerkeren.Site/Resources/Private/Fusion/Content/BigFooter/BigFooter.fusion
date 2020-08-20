@@ -13,7 +13,7 @@ prototype(Byhaandvaerkeren.Site:Content.BigFooter) < prototype(Neos.Neos:Content
                 <p>{props.text}</p>
             </header>
             <div class="big-footer-button">
-                <a href="/info">Kontakt mig her</a>
+                <a href="/info">Kontakt os her</a>
             </div>
             <div class="copyright">
                 {props.copyright}
