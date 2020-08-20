@@ -7378,6 +7378,37 @@ header nav {
       .mini-footer p {
         font-size: .8em; } }
 
+.big-footer {
+  text-align: center;
+  padding: 50px 20px;
+  position: relative; }
+  .big-footer header {
+    max-width: 480px;
+    margin: 0 auto 40px; }
+    .big-footer header p {
+      color: #0A0A0A;
+      font-size: 2.5em;
+      font-weight: 800;
+      line-height: 1.1; }
+  .big-footer .big-footer-button {
+    border: 3px #F84C00 solid;
+    display: block;
+    margin: 0 auto;
+    padding: 5px 25px;
+    width: fit-content; }
+    .big-footer .big-footer-button a {
+      font-size: 1.5em;
+      font-weight: 600; }
+    .big-footer .big-footer-button span {
+      color: #F84C00;
+      font-size: 2em;
+      padding: 0 25px; }
+  .big-footer .copyright {
+    display: inline-block;
+    margin-top: 40px; }
+    .big-footer .copyright p {
+      font-size: 1em; }
+
 main {
   padding-bottom: 120px; }
   @media screen and (min-width: 769px) {

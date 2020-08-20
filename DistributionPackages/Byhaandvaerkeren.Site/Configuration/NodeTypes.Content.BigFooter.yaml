@@ -1,0 +1,25 @@
+'Byhaandvaerkeren.Site:Content.BigFooter':
+  superTypes:
+    'Neos.Neos:Content': true
+  ui:
+    label: Big Footer
+    icon: icon-file-text
+    position: 1100
+    inlineEditable: true
+  properties:
+    text:
+      ui:
+        inline:
+          editorOptions:
+            placeholder: '<p>Enter text here...</p>'
+            hyphens: true
+      options:
+        silhouette: codeq.text.free
+    copyright:
+      ui:
+        inline:
+          editorOptions:
+            placeholder: '<p>Enter text here...</p>'
+            hyphens: true
+      options:
+        silhouette: codeq.text.free

@@ -37,7 +37,7 @@ prototype(Byhaandvaerkeren.Site:Component.Header) < prototype(Neos.Fusion:Compon
                     <div class="kontakt-cta">
                         <ul>
                             <li>
-                                <a href="#">Kontakt mig</a>
+                                <a href="/info">Kontakt mig</a>
                             </li>
                         </ul>
                     </div>

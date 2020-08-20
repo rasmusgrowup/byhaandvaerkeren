@@ -1,0 +1,23 @@
+prototype(Byhaandvaerkeren.Site:Content.BigFooter) < prototype(Neos.Neos:ContentComponent) {
+    text = Neos.Neos:Editable {
+        property = 'text'
+    }
+
+    copyright = Neos.Neos:Editable {
+        property = 'copyright'
+    }
+
+    renderer = afx`
+        <footer class="big-footer">
+            <header>
+                <p>{props.text}</p>
+            </header>
+            <div class="big-footer-button">
+                <a href="/info">Kontakt mig her</a>
+            </div>
+            <div class="copyright">
+                {props.copyright}
+            </div>
+        </footer>
+    `
+}

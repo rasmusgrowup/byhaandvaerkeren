@@ -10,5 +10,6 @@ prototype(Byhaandvaerkeren.Site:Document.AbstractPage) < prototype(Neos.Neos:Pag
     }
     body = Byhaandvaerkeren.Site:Component.DefaultLayout {
         content = ''
+        @process.normalize = CodeQ.UnicodeNormalizer:Normalizer
     }
 }
