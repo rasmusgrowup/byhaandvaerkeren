@@ -1,0 +1,27 @@
+'Byhaandvaerkeren.Site:Content.Picture':
+  superTypes:
+    'Neos.Neos:Content': true
+    'Byhaandvaerkeren.Site:Mixin.Image': true
+  ui:
+    label: Picture
+    icon: icon-picture
+    position: 300
+    inspector:
+      groups:
+        picture:
+          label: 'Picture'
+          position: 500
+          icon: 'icon-picture'
+  properties:
+    class:
+      type: boolean
+      ui:
+        label: 'Add padding'
+        inspector:
+          group: picture
+    style:
+      type: boolean
+      ui:
+        label: 'Full width'
+        inspector:
+          group: picture

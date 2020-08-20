@@ -1,0 +1,12 @@
+prototype(Byhaandvaerkeren.Site:Content.Picture) < prototype(Neos.Neos:ContentComponent) {
+    alternativeText = ${node.properties.alternativeText}
+    src = Byhaandvaerkeren.Site:Component.ImageUri {
+        @context.asset = ${q(node).property('image')}
+    }
+    class = ${q(node).property('class') ? 'container-image image-padding' : 'container-image'}
+    style = ${q(node).property('style') ? '100%' : 'auto'}
+
+    renderer = afx`
+        <img class={props.class} style={props.style} src={props.src} alt={props.alternativeText}/>
+    `
+}
