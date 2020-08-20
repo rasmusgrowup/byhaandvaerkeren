@@ -410,15 +410,15 @@
           <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:22:30+02:00</lastPublicationDateTime>
           <properties/>
          </variant>
-         <node identifier="5d7c4ec9-9276-49a1-9be0-d0677bbc5e70" nodeName="node-69f66yim57vp2">
-          <variant sortingIndex="500" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Image" version="4" removed="" hidden="" hiddenInIndex="">
+         <node identifier="8a7f3ba1-bcb0-4306-922b-4f35fc999b56" nodeName="node-g5pnk7ijtbmp6">
+          <variant sortingIndex="550" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Picture" version="4" removed="" hidden="" hiddenInIndex="">
            <dimensions>
             <language>en</language>
            </dimensions>
            <accessRoles __type="array"/>
-           <creationDateTime __type="object" __classname="DateTime">2020-08-07T16:22:27+02:00</creationDateTime>
-           <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T17:26:02+02:00</lastModificationDateTime>
-           <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T17:26:02+02:00</lastPublicationDateTime>
+           <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:30:13+02:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:30:26+02:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:30:26+02:00</lastPublicationDateTime>
            <properties>
             <image __type="object" __identifier="8c0a1781-0e51-4388-93fa-32ee3ce65b18" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;8c0a1781-0e51-4388-93fa-32ee3ce65b18&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8145.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;24cb2ccacd6dd33c89be37eeee47727ae6f8096e&quot;,&quot;hash&quot;:&quot;24cb2ccacd6dd33c89be37eeee47727ae6f8096e&quot;,&quot;__identity&quot;:&quot;afea214e-275d-4793-9335-8eb6d7c57aad&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
            </properties>
@@ -907,15 +907,15 @@
          <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:47:50+02:00</lastPublicationDateTime>
          <properties/>
         </variant>
-        <node identifier="ef87f4e1-0b3b-4f9d-97a3-f8ef0eca414b" nodeName="node-69f66yim57vp2">
-         <variant sortingIndex="100" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Image" version="5" removed="" hidden="" hiddenInIndex="">
+        <node identifier="75c5e378-6d4c-4757-904e-a14cc0682c4e" nodeName="node-bebgc9s1zrxr4">
+         <variant sortingIndex="125" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Picture" version="4" removed="" hidden="" hiddenInIndex="">
           <dimensions>
            <language>en</language>
           </dimensions>
           <accessRoles __type="array"/>
-          <creationDateTime __type="object" __classname="DateTime">2020-08-07T16:47:27+02:00</creationDateTime>
-          <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T17:13:03+02:00</lastModificationDateTime>
-          <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T17:13:03+02:00</lastPublicationDateTime>
+          <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:28:07+02:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:28:26+02:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:28:26+02:00</lastPublicationDateTime>
           <properties>
            <image __type="object" __identifier="863247b8-4eed-4b8d-8b61-1438d29f9f62" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;863247b8-4eed-4b8d-8b61-1438d29f9f62&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;image00024.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;aba50aae257760d39078802b5c268ee786b0ddc4&quot;,&quot;hash&quot;:&quot;aba50aae257760d39078802b5c268ee786b0ddc4&quot;,&quot;__identity&quot;:&quot;2c2d2008-8d5a-420e-a800-ff514ee20671&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
           </properties>
@@ -945,17 +945,19 @@
          <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:22:38+02:00</lastPublicationDateTime>
          <properties/>
         </variant>
-        <node identifier="a3c9bb42-29fd-46b9-b36a-a1d10e2a39c6" nodeName="node-9v6j843o34lft">
-         <variant sortingIndex="250" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Image" version="6" removed="" hidden="" hiddenInIndex="">
+        <node identifier="f3528724-4dff-4571-8e1b-d96b28cefe7d" nodeName="node-wk9ha0wore1zn">
+         <variant sortingIndex="300" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Picture" version="6" removed="" hidden="" hiddenInIndex="">
           <dimensions>
            <language>en</language>
           </dimensions>
           <accessRoles __type="array"/>
-          <creationDateTime __type="object" __classname="DateTime">2020-08-07T16:21:29+02:00</creationDateTime>
-          <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T17:02:02+02:00</lastModificationDateTime>
-          <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T17:02:02+02:00</lastPublicationDateTime>
+          <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:29:11+02:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:29:49+02:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:29:48+02:00</lastPublicationDateTime>
           <properties>
            <image __type="object" __identifier="b6cae303-7d75-4195-addc-a25f5033d09e" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;b6cae303-7d75-4195-addc-a25f5033d09e&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;image00010.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;d6d73497c56faade488cab85e4c0488e4367f4cc&quot;,&quot;hash&quot;:&quot;d6d73497c56faade488cab85e4c0488e4367f4cc&quot;,&quot;__identity&quot;:&quot;c69be6d3-3b89-4134-9940-4c21f41fe978&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
+           <style __type="boolean"></style>
+           <class __type="boolean"></class>
           </properties>
          </variant>
         </node>
@@ -1008,15 +1010,15 @@
             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:55:46+02:00</lastPublicationDateTime>
             <properties/>
            </variant>
-           <node identifier="02a77540-7ee8-4ae1-8794-a6ae81c20772" nodeName="node-1h38xv1dg6nou">
-            <variant sortingIndex="150" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Image" version="4" removed="" hidden="" hiddenInIndex="">
+           <node identifier="46c50008-3198-47dd-97ae-2ce35135f990" nodeName="node-97u0vb7l5ohlz">
+            <variant sortingIndex="200" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Picture" version="5" removed="" hidden="" hiddenInIndex="">
              <dimensions>
               <language>en</language>
              </dimensions>
              <accessRoles __type="array"/>
-             <creationDateTime __type="object" __classname="DateTime">2020-08-07T16:55:36+02:00</creationDateTime>
-             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T17:13:03+02:00</lastModificationDateTime>
-             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T17:13:03+02:00</lastPublicationDateTime>
+             <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:28:30+02:00</creationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:29:06+02:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:29:06+02:00</lastPublicationDateTime>
              <properties>
               <image __type="object" __identifier="31e63b2b-b8b6-4bf0-80c6-890721045f63" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;31e63b2b-b8b6-4bf0-80c6-890721045f63&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;image00006.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;bcb58140368aa581342b28a3da73fad018396032&quot;,&quot;hash&quot;:&quot;bcb58140368aa581342b28a3da73fad018396032&quot;,&quot;__identity&quot;:&quot;8308e391-f261-40f7-91ed-ab0a25f1cfb0&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
               <class __type="boolean">1</class>
@@ -1035,15 +1037,15 @@
             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:55:46+02:00</lastPublicationDateTime>
             <properties/>
            </variant>
-           <node identifier="8b5bdf52-9aed-46ab-94f8-079597040832" nodeName="node-g1lp7prm7lj50">
-            <variant sortingIndex="300" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Image" version="3" removed="" hidden="" hiddenInIndex="">
+           <node identifier="eb181cac-3466-4978-8d41-2b6263aff121" nodeName="node-x61ba96vvghjw">
+            <variant sortingIndex="350" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Picture" version="4" removed="" hidden="" hiddenInIndex="">
              <dimensions>
               <language>en</language>
              </dimensions>
              <accessRoles __type="array"/>
-             <creationDateTime __type="object" __classname="DateTime">2020-08-07T16:55:36+02:00</creationDateTime>
-             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T17:13:03+02:00</lastModificationDateTime>
-             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T17:13:03+02:00</lastPublicationDateTime>
+             <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:28:55+02:00</creationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:29:06+02:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:29:06+02:00</lastPublicationDateTime>
              <properties>
               <image __type="object" __identifier="37e5a9ba-a375-4493-99f1-294a06fd02b5" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;37e5a9ba-a375-4493-99f1-294a06fd02b5&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;image00013.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;f14c4aae6ae96832916ef619e567faa9e28915d2&quot;,&quot;hash&quot;:&quot;f14c4aae6ae96832916ef619e567faa9e28915d2&quot;,&quot;__identity&quot;:&quot;38664476-19da-43e9-9097-d3801e41e1e3&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
               <class __type="boolean">1</class>
@@ -1051,6 +1053,47 @@
             </variant>
            </node>
           </node>
+         </node>
+        </node>
+       </node>
+       <node identifier="72b92fe6-88a5-410e-8cce-27d18cd5024a" nodeName="node-tzzlrjk5w4oc6">
+        <variant sortingIndex="388" workspace="live" nodeType="Byhaandvaerkeren.Site:Collection.Section" version="2" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:29:53+02:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:29:55+02:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:29:55+02:00</lastPublicationDateTime>
+         <properties>
+          <bottomPadding __type="boolean">1</bottomPadding>
+         </properties>
+        </variant>
+        <node identifier="634c7169-ca5f-4ed0-ae1e-f38ff5b94761" nodeName="column0">
+         <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+          <dimensions>
+           <language>en</language>
+          </dimensions>
+          <accessRoles __type="array"/>
+          <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:29:53+02:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:29:55+02:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:29:55+02:00</lastPublicationDateTime>
+          <properties/>
+         </variant>
+         <node identifier="45913838-1e47-4918-9641-7e0bdd33c275" nodeName="node-tty1yaihsd7l9">
+          <variant sortingIndex="250" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.BigFooter" version="2" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:29:53+02:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:29:55+02:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:29:55+02:00</lastPublicationDateTime>
+           <properties>
+            <text __type="string">&lt;p&gt;Har i et spændende projekt, vi kan hjælpe med?&lt;/p&gt;</text>
+            <copyright __type="string">&lt;p&gt;2020 © Byhandværkeren - +45 23 84 00 71 - Webdesign af &lt;a href=&quot;https://www.growupstudio.dk/&quot; target=&quot;_blank&quot;&gt;Growup Studio&lt;/a&gt;&lt;/p&gt;</copyright>
+           </properties>
+          </variant>
          </node>
         </node>
        </node>
@@ -1081,6 +1124,22 @@
         <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T15:09:25+02:00</lastPublicationDateTime>
         <properties/>
        </variant>
+       <node identifier="7ad3d611-4e0e-4efa-aa62-f13712d51667" nodeName="node-1jttqsgqzc7hk">
+        <variant sortingIndex="382" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Picture" version="4" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:24:32+02:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:24:46+02:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:24:46+02:00</lastPublicationDateTime>
+         <properties>
+          <class __type="boolean">1</class>
+          <style __type="boolean">1</style>
+          <image __type="object" __identifier="ab7d82ea-aaeb-4d71-853b-351e89157737" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;ab7d82ea-aaeb-4d71-853b-351e89157737&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8122.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;148995b42189dffa8c939e79013e840f8ee81b9c&quot;,&quot;hash&quot;:&quot;148995b42189dffa8c939e79013e840f8ee81b9c&quot;,&quot;__identity&quot;:&quot;8780c062-2e40-46de-a482-e2b755fde6f9&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
+         </properties>
+        </variant>
+       </node>
        <node identifier="44f78a71-d641-464e-a711-4e33548527f9" nodeName="node-1sk2t7w6s2jb2">
         <variant sortingIndex="50" workspace="live" nodeType="Byhaandvaerkeren.Site:Collection.Section" version="2" removed="" hidden="" hiddenInIndex="">
          <dimensions>
@@ -1136,21 +1195,46 @@
          </node>
         </node>
        </node>
-       <node identifier="53a74329-8547-4fa3-b37f-738651f531f0" nodeName="node-jwx82qlwo88mv">
-        <variant sortingIndex="145" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Image" version="5" removed="" hidden="" hiddenInIndex="">
+       <node identifier="4b907ac6-314c-4b69-8bb3-04aecb53c381" nodeName="node-avc00a0h8xoxa">
+        <variant sortingIndex="388" workspace="live" nodeType="Byhaandvaerkeren.Site:Collection.Section" version="2" removed="" hidden="" hiddenInIndex="">
          <dimensions>
           <language>en</language>
          </dimensions>
          <accessRoles __type="array"/>
-         <creationDateTime __type="object" __classname="DateTime">2020-08-07T15:46:01+02:00</creationDateTime>
-         <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T16:44:52+02:00</lastModificationDateTime>
-         <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:44:52+02:00</lastPublicationDateTime>
+         <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:21:10+02:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:21:15+02:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:21:15+02:00</lastPublicationDateTime>
          <properties>
-          <image __type="object" __identifier="55c1b24e-0db5-40ac-ae88-ed34b0170bb5" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;55c1b24e-0db5-40ac-ae88-ed34b0170bb5&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8119.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;b95f70f5d66018b731e37eec5e473a4412f0e9e0&quot;,&quot;hash&quot;:&quot;b95f70f5d66018b731e37eec5e473a4412f0e9e0&quot;,&quot;__identity&quot;:&quot;b01a7665-3cc2-4028-9c22-6f6584cdc695&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
-          <style __type="boolean">1</style>
-          <class __type="boolean">1</class>
+          <bottomPadding __type="boolean">1</bottomPadding>
          </properties>
         </variant>
+        <node identifier="512390e9-e324-4c18-8831-00af16fa2cbd" nodeName="column0">
+         <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+          <dimensions>
+           <language>en</language>
+          </dimensions>
+          <accessRoles __type="array"/>
+          <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:21:10+02:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:21:15+02:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:21:15+02:00</lastPublicationDateTime>
+          <properties/>
+         </variant>
+         <node identifier="c31c6705-a643-4267-ab6e-15200b03264d" nodeName="node-tty1yaihsd7l9">
+          <variant sortingIndex="250" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.BigFooter" version="2" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:21:10+02:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:21:15+02:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:21:15+02:00</lastPublicationDateTime>
+           <properties>
+            <text __type="string">&lt;p&gt;Har i et spændende projekt, vi kan hjælpe med?&lt;/p&gt;</text>
+            <copyright __type="string">&lt;p&gt;2020 © Byhandværkeren - +45 23 84 00 71 - Webdesign af &lt;a href=&quot;https://www.growupstudio.dk/&quot; target=&quot;_blank&quot;&gt;Growup Studio&lt;/a&gt;&lt;/p&gt;</copyright>
+           </properties>
+          </variant>
+         </node>
+        </node>
        </node>
        <node identifier="d77908d1-e680-46b7-b15c-861967acef7f" nodeName="node-myuj0f5xpo5i7">
         <variant sortingIndex="63" workspace="live" nodeType="Byhaandvaerkeren.Site:Collection.Section" version="2" removed="" hidden="" hiddenInIndex="">
@@ -1200,18 +1284,18 @@
             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T15:22:07+02:00</lastPublicationDateTime>
             <properties/>
            </variant>
-           <node identifier="189f10ed-e89e-4da1-98ef-c8bb37e80891" nodeName="node-1h38xv1dg6nou">
-            <variant sortingIndex="150" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Image" version="4" removed="" hidden="" hiddenInIndex="">
+           <node identifier="4c90f37d-acdb-438c-9b2f-290d38dd7865" nodeName="node-xfl4ni8ze5hil">
+            <variant sortingIndex="100" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Picture" version="6" removed="" hidden="" hiddenInIndex="">
              <dimensions>
               <language>en</language>
              </dimensions>
              <accessRoles __type="array"/>
-             <creationDateTime __type="object" __classname="DateTime">2020-08-07T15:22:02+02:00</creationDateTime>
-             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T15:40:06+02:00</lastModificationDateTime>
-             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T15:40:05+02:00</lastPublicationDateTime>
+             <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:22:36+02:00</creationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:23:22+02:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:23:22+02:00</lastPublicationDateTime>
              <properties>
-              <image __type="object" __identifier="56991263-1581-4aca-9034-d4ef6bed7ffe" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;56991263-1581-4aca-9034-d4ef6bed7ffe&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8078.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;8a7b2669abe801e46f743d7aafb6c9e6546bc439&quot;,&quot;hash&quot;:&quot;8a7b2669abe801e46f743d7aafb6c9e6546bc439&quot;,&quot;__identity&quot;:&quot;011a8168-ed8b-4569-9ec0-3869cb60847b&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
               <class __type="boolean">1</class>
+              <image __type="object" __identifier="bcc2247e-bdb1-4c24-9eec-805e15c2958f" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;bcc2247e-bdb1-4c24-9eec-805e15c2958f&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;image00034_bw.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;edb4dcee354b7283b1be051e1e18434199b0b5cd&quot;,&quot;hash&quot;:&quot;edb4dcee354b7283b1be051e1e18434199b0b5cd&quot;,&quot;__identity&quot;:&quot;cac73fc5-61bf-4a56-84eb-e8636cbad169&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
              </properties>
             </variant>
            </node>
@@ -1227,17 +1311,17 @@
             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T15:22:07+02:00</lastPublicationDateTime>
             <properties/>
            </variant>
-           <node identifier="6dcb550e-1c4d-4516-9a2a-0d68badef341" nodeName="node-g1lp7prm7lj50">
-            <variant sortingIndex="300" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Image" version="4" removed="" hidden="" hiddenInIndex="">
+           <node identifier="532f1919-4fe0-4666-9e17-88c16c73c41e" nodeName="node-1pcxifqf78x9y">
+            <variant sortingIndex="450" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Picture" version="6" removed="" hidden="" hiddenInIndex="">
              <dimensions>
               <language>en</language>
              </dimensions>
              <accessRoles __type="array"/>
-             <creationDateTime __type="object" __classname="DateTime">2020-08-07T15:22:02+02:00</creationDateTime>
-             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T16:43:36+02:00</lastModificationDateTime>
-             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:43:35+02:00</lastPublicationDateTime>
+             <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:21:51+02:00</creationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:23:22+02:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:23:22+02:00</lastPublicationDateTime>
              <properties>
-              <image __type="object" __identifier="bcc2247e-bdb1-4c24-9eec-805e15c2958f" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;bcc2247e-bdb1-4c24-9eec-805e15c2958f&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;image00034_bw.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;edb4dcee354b7283b1be051e1e18434199b0b5cd&quot;,&quot;hash&quot;:&quot;edb4dcee354b7283b1be051e1e18434199b0b5cd&quot;,&quot;__identity&quot;:&quot;cac73fc5-61bf-4a56-84eb-e8636cbad169&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
+              <image __type="object" __identifier="56991263-1581-4aca-9034-d4ef6bed7ffe" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;56991263-1581-4aca-9034-d4ef6bed7ffe&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8078.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;8a7b2669abe801e46f743d7aafb6c9e6546bc439&quot;,&quot;hash&quot;:&quot;8a7b2669abe801e46f743d7aafb6c9e6546bc439&quot;,&quot;__identity&quot;:&quot;011a8168-ed8b-4569-9ec0-3869cb60847b&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
               <class __type="boolean">1</class>
              </properties>
             </variant>
@@ -1284,19 +1368,19 @@
          </variant>
         </node>
        </node>
-       <node identifier="2885f934-5f43-4b12-bb22-53ca9514a178" nodeName="node-sipft1uf8s082">
-        <variant sortingIndex="376" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Image" version="4" removed="" hidden="" hiddenInIndex="">
+       <node identifier="69c6545b-ff58-48b4-b283-fcb4cf5215b8" nodeName="node-tcoib1duv2f0a">
+        <variant sortingIndex="236" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Picture" version="5" removed="" hidden="" hiddenInIndex="">
          <dimensions>
           <language>en</language>
          </dimensions>
          <accessRoles __type="array"/>
-         <creationDateTime __type="object" __classname="DateTime">2020-08-07T15:22:19+02:00</creationDateTime>
-         <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T16:44:52+02:00</lastModificationDateTime>
-         <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:44:52+02:00</lastPublicationDateTime>
+         <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:23:29+02:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:23:43+02:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:23:42+02:00</lastPublicationDateTime>
          <properties>
-          <image __type="object" __identifier="ab7d82ea-aaeb-4d71-853b-351e89157737" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;ab7d82ea-aaeb-4d71-853b-351e89157737&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8122.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;148995b42189dffa8c939e79013e840f8ee81b9c&quot;,&quot;hash&quot;:&quot;148995b42189dffa8c939e79013e840f8ee81b9c&quot;,&quot;__identity&quot;:&quot;8780c062-2e40-46de-a482-e2b755fde6f9&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
-          <style __type="boolean">1</style>
+          <image __type="object" __identifier="55c1b24e-0db5-40ac-ae88-ed34b0170bb5" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;55c1b24e-0db5-40ac-ae88-ed34b0170bb5&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8119.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;b95f70f5d66018b731e37eec5e473a4412f0e9e0&quot;,&quot;hash&quot;:&quot;b95f70f5d66018b731e37eec5e473a4412f0e9e0&quot;,&quot;__identity&quot;:&quot;b01a7665-3cc2-4028-9c22-6f6584cdc695&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
           <class __type="boolean">1</class>
+          <style __type="boolean">1</style>
          </properties>
         </variant>
        </node>
@@ -1348,18 +1432,18 @@
             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T15:40:05+02:00</lastPublicationDateTime>
             <properties/>
            </variant>
-           <node identifier="40bcaae7-18cc-49e1-9628-0970a360df09" nodeName="node-1h38xv1dg6nou">
-            <variant sortingIndex="150" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Image" version="3" removed="" hidden="" hiddenInIndex="">
+           <node identifier="a1800da3-9c8f-4900-a0c0-b56f81c578da" nodeName="node-0eii8uep2uosw">
+            <variant sortingIndex="200" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Picture" version="4" removed="" hidden="" hiddenInIndex="">
              <dimensions>
               <language>en</language>
              </dimensions>
              <accessRoles __type="array"/>
-             <creationDateTime __type="object" __classname="DateTime">2020-08-07T15:39:44+02:00</creationDateTime>
-             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T15:43:12+02:00</lastModificationDateTime>
-             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T15:43:11+02:00</lastPublicationDateTime>
+             <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:23:53+02:00</creationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:24:25+02:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:24:24+02:00</lastPublicationDateTime>
              <properties>
-              <image __type="object" __identifier="dc610c61-5ad9-46c6-9946-02ca5ca86f59" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;dc610c61-5ad9-46c6-9946-02ca5ca86f59&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8105.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;29730f3ee16fab9bd52b436f9eb0a3fa0652cc1e&quot;,&quot;hash&quot;:&quot;29730f3ee16fab9bd52b436f9eb0a3fa0652cc1e&quot;,&quot;__identity&quot;:&quot;2f9b04c0-f028-49af-845a-61dfaddffd4c&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
               <class __type="boolean">1</class>
+              <image __type="object" __identifier="dc610c61-5ad9-46c6-9946-02ca5ca86f59" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;dc610c61-5ad9-46c6-9946-02ca5ca86f59&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8105.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;29730f3ee16fab9bd52b436f9eb0a3fa0652cc1e&quot;,&quot;hash&quot;:&quot;29730f3ee16fab9bd52b436f9eb0a3fa0652cc1e&quot;,&quot;__identity&quot;:&quot;2f9b04c0-f028-49af-845a-61dfaddffd4c&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
              </properties>
             </variant>
            </node>
@@ -1375,18 +1459,18 @@
             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T15:40:05+02:00</lastPublicationDateTime>
             <properties/>
            </variant>
-           <node identifier="142c8673-e6ac-48b4-aadb-321d89bcde6f" nodeName="node-g1lp7prm7lj50">
-            <variant sortingIndex="300" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Image" version="3" removed="" hidden="" hiddenInIndex="">
+           <node identifier="13b3f1a0-5211-4925-ab97-e65d275525be" nodeName="node-e8vedhq2bfy9d">
+            <variant sortingIndex="350" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Picture" version="4" removed="" hidden="" hiddenInIndex="">
              <dimensions>
               <language>en</language>
              </dimensions>
              <accessRoles __type="array"/>
-             <creationDateTime __type="object" __classname="DateTime">2020-08-07T15:39:44+02:00</creationDateTime>
-             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T15:43:12+02:00</lastModificationDateTime>
-             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T15:43:11+02:00</lastPublicationDateTime>
+             <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:24:10+02:00</creationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:24:25+02:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:24:24+02:00</lastPublicationDateTime>
              <properties>
-              <image __type="object" __identifier="9deeeff8-0064-48f6-8af7-81f2132aa1cd" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;9deeeff8-0064-48f6-8af7-81f2132aa1cd&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8106.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;d1009fe3775cf1838491c6404f0eccc6423afc3e&quot;,&quot;hash&quot;:&quot;d1009fe3775cf1838491c6404f0eccc6423afc3e&quot;,&quot;__identity&quot;:&quot;eb550c4b-b895-4e91-92be-1be5b357b431&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
               <class __type="boolean">1</class>
+              <image __type="object" __identifier="9deeeff8-0064-48f6-8af7-81f2132aa1cd" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;9deeeff8-0064-48f6-8af7-81f2132aa1cd&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8106.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;d1009fe3775cf1838491c6404f0eccc6423afc3e&quot;,&quot;hash&quot;:&quot;d1009fe3775cf1838491c6404f0eccc6423afc3e&quot;,&quot;__identity&quot;:&quot;eb550c4b-b895-4e91-92be-1be5b357b431&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
              </properties>
             </variant>
            </node>
@@ -1965,6 +2049,47 @@
          </node>
         </node>
        </node>
+       <node identifier="b25518ed-e0f3-4acb-9a55-5bfa69abfbf6" nodeName="node-ex7ex4jqfz87n">
+        <variant sortingIndex="388" workspace="live" nodeType="Byhaandvaerkeren.Site:Collection.Section" version="2" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:27:45+02:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:27:47+02:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:27:47+02:00</lastPublicationDateTime>
+         <properties>
+          <bottomPadding __type="boolean">1</bottomPadding>
+         </properties>
+        </variant>
+        <node identifier="7d030937-5a5a-4274-af33-5821717f032a" nodeName="column0">
+         <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+          <dimensions>
+           <language>en</language>
+          </dimensions>
+          <accessRoles __type="array"/>
+          <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:27:45+02:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:27:47+02:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:27:47+02:00</lastPublicationDateTime>
+          <properties/>
+         </variant>
+         <node identifier="201f1739-9181-4458-9b13-392eb4c5827a" nodeName="node-tty1yaihsd7l9">
+          <variant sortingIndex="250" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.BigFooter" version="2" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:27:45+02:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:27:47+02:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:27:47+02:00</lastPublicationDateTime>
+           <properties>
+            <text __type="string">&lt;p&gt;Har i et spændende projekt, vi kan hjælpe med?&lt;/p&gt;</text>
+            <copyright __type="string">&lt;p&gt;2020 © Byhandværkeren - +45 23 84 00 71 - Webdesign af &lt;a href=&quot;https://www.growupstudio.dk/&quot; target=&quot;_blank&quot;&gt;Growup Studio&lt;/a&gt;&lt;/p&gt;</copyright>
+           </properties>
+          </variant>
+         </node>
+        </node>
+       </node>
        <node identifier="d3c8c6bd-0236-4ba3-ab51-9a530ee6e6e0" nodeName="node-hlsbdxobybg38">
         <variant sortingIndex="63" workspace="live" nodeType="Byhaandvaerkeren.Site:Collection.Section" version="2" removed="" hidden="" hiddenInIndex="">
          <dimensions>
@@ -2013,18 +2138,18 @@
             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:05:02+02:00</lastPublicationDateTime>
             <properties/>
            </variant>
-           <node identifier="82516abf-c9b9-4320-b939-68846768f414" nodeName="node-1h38xv1dg6nou">
-            <variant sortingIndex="150" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Image" version="3" removed="" hidden="" hiddenInIndex="">
+           <node identifier="70799510-44aa-4eaa-8cd1-ba57d24c8f2b" nodeName="node-es98cn6iw9q9h">
+            <variant sortingIndex="200" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Picture" version="4" removed="" hidden="" hiddenInIndex="">
              <dimensions>
               <language>en</language>
              </dimensions>
              <accessRoles __type="array"/>
-             <creationDateTime __type="object" __classname="DateTime">2020-08-07T16:04:57+02:00</creationDateTime>
-             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T16:18:27+02:00</lastModificationDateTime>
-             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:18:26+02:00</lastPublicationDateTime>
+             <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:25:22+02:00</creationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:25:59+02:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:25:59+02:00</lastPublicationDateTime>
              <properties>
-              <image __type="object" __identifier="22a0f633-854f-4e14-99e3-1f48e98a953b" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;22a0f633-854f-4e14-99e3-1f48e98a953b&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8109.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;01158ed129d358698981897019e9bacfd95b9908&quot;,&quot;hash&quot;:&quot;01158ed129d358698981897019e9bacfd95b9908&quot;,&quot;__identity&quot;:&quot;491f2050-6560-4c03-84e8-74a488084dcd&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
               <class __type="boolean">1</class>
+              <image __type="object" __identifier="22a0f633-854f-4e14-99e3-1f48e98a953b" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;22a0f633-854f-4e14-99e3-1f48e98a953b&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8109.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;01158ed129d358698981897019e9bacfd95b9908&quot;,&quot;hash&quot;:&quot;01158ed129d358698981897019e9bacfd95b9908&quot;,&quot;__identity&quot;:&quot;491f2050-6560-4c03-84e8-74a488084dcd&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
              </properties>
             </variant>
            </node>
@@ -2040,18 +2165,18 @@
             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:05:02+02:00</lastPublicationDateTime>
             <properties/>
            </variant>
-           <node identifier="c21f9c61-c046-435a-84fc-c85120e46151" nodeName="node-g1lp7prm7lj50">
-            <variant sortingIndex="300" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Image" version="3" removed="" hidden="" hiddenInIndex="">
+           <node identifier="4a496a91-2153-40bf-b545-db76d4a85fcf" nodeName="node-o6u78bihkb5yk">
+            <variant sortingIndex="350" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Picture" version="4" removed="" hidden="" hiddenInIndex="">
              <dimensions>
               <language>en</language>
              </dimensions>
              <accessRoles __type="array"/>
-             <creationDateTime __type="object" __classname="DateTime">2020-08-07T16:04:57+02:00</creationDateTime>
-             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T16:18:27+02:00</lastModificationDateTime>
-             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:18:26+02:00</lastPublicationDateTime>
+             <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:25:46+02:00</creationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:25:59+02:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:25:59+02:00</lastPublicationDateTime>
              <properties>
-              <image __type="object" __identifier="2ba737a5-90ca-4226-8782-32a5fc3d47ac" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;2ba737a5-90ca-4226-8782-32a5fc3d47ac&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8111.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;ee2fb9276727da3164dc6a5672cb2f2be81251d2&quot;,&quot;hash&quot;:&quot;ee2fb9276727da3164dc6a5672cb2f2be81251d2&quot;,&quot;__identity&quot;:&quot;5fb06aa3-5136-475e-823c-c866523ceb64&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
               <class __type="boolean">1</class>
+              <image __type="object" __identifier="2ba737a5-90ca-4226-8782-32a5fc3d47ac" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;2ba737a5-90ca-4226-8782-32a5fc3d47ac&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8111.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;ee2fb9276727da3164dc6a5672cb2f2be81251d2&quot;,&quot;hash&quot;:&quot;ee2fb9276727da3164dc6a5672cb2f2be81251d2&quot;,&quot;__identity&quot;:&quot;5fb06aa3-5136-475e-823c-c866523ceb64&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
              </properties>
             </variant>
            </node>
@@ -2059,19 +2184,19 @@
          </node>
         </node>
        </node>
-       <node identifier="3c77dd01-9107-4d8d-86f6-5db25c8c4495" nodeName="node-hn30jor1ccnvm">
-        <variant sortingIndex="226" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Image" version="3" removed="" hidden="" hiddenInIndex="">
+       <node identifier="a8857ce8-3d03-411b-9089-4a1cc0e4e98a" nodeName="node-ho8q051183e97">
+        <variant sortingIndex="276" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Picture" version="4" removed="" hidden="" hiddenInIndex="">
          <dimensions>
           <language>en</language>
          </dimensions>
          <accessRoles __type="array"/>
-         <creationDateTime __type="object" __classname="DateTime">2020-08-07T16:18:38+02:00</creationDateTime>
-         <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T16:18:52+02:00</lastModificationDateTime>
-         <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:18:52+02:00</lastPublicationDateTime>
+         <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:26:03+02:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:26:35+02:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:26:35+02:00</lastPublicationDateTime>
          <properties>
           <image __type="object" __identifier="573414b4-9f73-43b3-8409-97b220c9395d" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;573414b4-9f73-43b3-8409-97b220c9395d&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8115.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;494ddf2c42aa7bc41effbf5b48e4d692b10ad09d&quot;,&quot;hash&quot;:&quot;494ddf2c42aa7bc41effbf5b48e4d692b10ad09d&quot;,&quot;__identity&quot;:&quot;12f0edc0-9df3-4cd9-ad81-40bc51bab0c9&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
-          <style __type="boolean">1</style>
           <class __type="boolean">1</class>
+          <style __type="boolean">1</style>
          </properties>
         </variant>
        </node>
@@ -2086,15 +2211,15 @@
          <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T15:54:53+02:00</lastPublicationDateTime>
          <properties/>
         </variant>
-        <node identifier="807fd38a-7a2d-425a-8c93-597a8a6d1b30" nodeName="node-fjojotmd51nrr">
-         <variant sortingIndex="250" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Image" version="3" removed="" hidden="" hiddenInIndex="">
+        <node identifier="96f65416-34bb-4ffe-aff0-84f3af08a2de" nodeName="node-443y0rg3aj6ud">
+         <variant sortingIndex="300" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Picture" version="4" removed="" hidden="" hiddenInIndex="">
           <dimensions>
            <language>en</language>
           </dimensions>
           <accessRoles __type="array"/>
-          <creationDateTime __type="object" __classname="DateTime">2020-08-07T15:54:35+02:00</creationDateTime>
-          <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T15:58:59+02:00</lastModificationDateTime>
-          <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T15:58:59+02:00</lastPublicationDateTime>
+          <creationDateTime __type="object" __classname="DateTime">2020-08-20T10:25:02+02:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2020-08-20T10:25:15+02:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-20T10:25:15+02:00</lastPublicationDateTime>
           <properties>
            <image __type="object" __identifier="555ac792-195a-4af5-a232-a361d12090bf" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;555ac792-195a-4af5-a232-a361d12090bf&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;IMG_8107.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;e75f1a98b2972634f8f6ecf0f4b4adf25e2fae9a&quot;,&quot;hash&quot;:&quot;e75f1a98b2972634f8f6ecf0f4b4adf25e2fae9a&quot;,&quot;__identity&quot;:&quot;4ea1c3dc-4890-4ded-b279-c31fd20e6701&quot;},&quot;tags&quot;:[],&quot;assetCollections&quot;:[]}</image>
           </properties>
