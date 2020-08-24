@@ -31,7 +31,7 @@
     }
 
     .big-footer-button {
-        border: 3px $orange solid;
+        border: 3px $theme solid;
         display: block;
         margin: 0 auto;
         padding: 5px 25px;
@@ -43,7 +43,7 @@
         }
 
         span {
-            color: $orange;
+            color: $theme;
             font-size: 2em;
             padding: 0 25px;
         }

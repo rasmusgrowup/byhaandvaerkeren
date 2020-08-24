@@ -33,14 +33,14 @@ header {
                         padding: 2px 10px;
 
                         &:hover {
-                            color: $orange;
+                            color: $theme;
                         }
                     }
                 }
 
                 .navigation-item--state-current {
                     a {
-                        border-bottom: 3px $orange solid;
+                        border-bottom: 3px $theme solid;
                         //color: $orange;
                     }
                 }
@@ -56,9 +56,10 @@ header {
                 &:last-child {
                     display: block;
                     position: absolute;
-                    top: 15px;
+                    top: 290px;
                     left: 50%;
                     transform: translateX(-50%);
+                    width: 45%;
                     z-index: 9;
                 }
             }
@@ -88,13 +89,13 @@ header {
                         }
 
                         a {
-                            border: 3px transparent solid;
+                            //border: 3px transparent solid;
                             font-size: 1.25em;
                         }
 
                         &:hover {
                             a {
-                                border-bottom: 3px $orange solid;
+                                border-bottom: 3px $theme solid;
                             }
                         }
                     }
@@ -106,7 +107,7 @@ header {
 
                         &:hover {
                             a {
-                                border: 3px $orange solid;
+                                border: 3px $theme solid;
                             }
                         }
                     }

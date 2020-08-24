@@ -7,15 +7,15 @@
 // Update the blue shade, used for links
 $black: #0A0A0A;
 $blue: #0080EE;
-$orange: #F84C00;
+$theme: #6fa9cd;
 $light-orange: #FEDBCC;
 $sand: #FFFBF7;
-$link-color: $orange;
+$link-color: $theme;
 // Update the sans-serif font family
 $family-sans-serif: "pill-gothic-300mg", "Helvetica", "Arial", sans-serif;
 
 // 3. Set the derived variables
-$primary: $orange;
+$primary: $theme;
 
 // 4. Import the rest of Bulma
 @import "../node_modules/bulma/bulma";
@@ -45,7 +45,7 @@ main {
 .underline {
     &:after {
         animation: underline 1s 1s cubic-bezier(0.16, 1, 0.3, 1) forwards;
-        background-color: $orange;
+        background-color: $theme;
         bottom: 8%;
         content: '';
         display: block;
