@@ -13,12 +13,38 @@
       <uriPathSegment __type="string">home</uriPathSegment>
      </properties>
     </variant>
+    <variant sortingIndex="100" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.HomePage" version="6" removed="" hidden="" hiddenInIndex="">
+     <dimensions>
+      <language>en</language>
+     </dimensions>
+     <accessRoles __type="array"/>
+     <creationDateTime __type="object" __classname="DateTime">2020-09-01T17:47:43+02:00</creationDateTime>
+     <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T18:05:32+02:00</lastModificationDateTime>
+     <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T18:05:32+02:00</lastPublicationDateTime>
+     <properties>
+      <title __type="string">Home</title>
+      <uriPathSegment __type="string">home</uriPathSegment>
+      <titleOverride __type="string">Byhåndværkeren - Solidt tømmerarbejde og kreative løsninger</titleOverride>
+      <metaDescription __type="string">Hos Byhåndværkeren kan vi tilbyde solidt tømrerarbejde lavet på godt håndværk, til private og erhverv.</metaDescription>
+      <metaKeywords __type="string">tømrer, håndværker, tilbud, tømmerarbejde, nytænkning, projektstyring, kreative løsninger, håndarbejde, tilbud, privat, erhverv</metaKeywords>
+     </properties>
+    </variant>
     <node identifier="6c302e0e-1d54-4697-a7ec-88d4e0d010cf" nodeName="main">
      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="1" removed="" hidden="" hiddenInIndex="">
       <dimensions/>
       <accessRoles __type="array"/>
       <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+02:00</creationDateTime>
       <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+02:00</lastModificationDateTime>
+      <properties/>
+     </variant>
+     <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+      <dimensions>
+       <language>en</language>
+      </dimensions>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2020-09-01T17:47:43+02:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T17:47:45+02:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T17:47:45+02:00</lastPublicationDateTime>
       <properties/>
      </variant>
      <node identifier="a9dfd63e-1417-43f1-b039-624b813ff75d" nodeName="node-0w7r7oeso2eq0">
@@ -93,16 +119,16 @@
            <properties/>
           </variant>
           <node identifier="60fb4e8b-e6b2-48db-9d93-a4559824376f" nodeName="node-cl4rr7ae86zfh">
-           <variant sortingIndex="400" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Text" version="13" removed="" hidden="" hiddenInIndex="">
+           <variant sortingIndex="400" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Text" version="14" removed="" hidden="" hiddenInIndex="">
             <dimensions>
              <language>en</language>
             </dimensions>
             <accessRoles __type="array"/>
             <creationDateTime __type="object" __classname="DateTime">2020-08-05T17:42:52+02:00</creationDateTime>
-            <lastModificationDateTime __type="object" __classname="DateTime">2020-08-06T18:10:21+02:00</lastModificationDateTime>
-            <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-06T18:10:20+02:00</lastPublicationDateTime>
+            <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T17:42:38+02:00</lastModificationDateTime>
+            <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T17:42:38+02:00</lastPublicationDateTime>
             <properties>
-             <text __type="string">&lt;p&gt;Vi er stolte af at kunne tilbyde solidt tømmerarbejde, lavet på godt håndværk. Vi nytænker de klassiske løsninger, så I kan få et spændende og unikt hjem. Vi laver desuden mange professionelle løsninger til erhverv. Læs mere herunder eller se eksempler på vores opgaver&lt;/p&gt;</text>
+             <text __type="string">&lt;p&gt;Vi er stolte af at kunne tilbyde solidt tømrerarbejde lavet på godt håndværk. Vi nytænker de klassiske løsninger, så i kan få et spændende og unikt hjem. Vi laver mange professionelle løsninger til erhverv og vi har ligeledes sans for at skabe kreative løsninger.&lt;/p&gt;&lt;p&gt;Læs mere herunder eller se eksempler på vores opgaver&lt;/p&gt;</text>
              <animate __type="string"></animate>
              <delay __type="string"></delay>
              <duration __type="string"></duration>
@@ -142,32 +168,32 @@
            </variant>
           </node>
           <node identifier="3d38837e-f1d9-452c-9191-3311b2bfe07e" nodeName="node-e6399satq4cn0">
-           <variant sortingIndex="300" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Headline" version="24" removed="" hidden="" hiddenInIndex="">
+           <variant sortingIndex="300" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Headline" version="25" removed="" hidden="" hiddenInIndex="">
             <dimensions>
              <language>en</language>
             </dimensions>
             <accessRoles __type="array"/>
             <creationDateTime __type="object" __classname="DateTime">2020-08-05T17:42:33+02:00</creationDateTime>
-            <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T10:26:41+02:00</lastModificationDateTime>
-            <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T10:26:41+02:00</lastPublicationDateTime>
+            <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T17:40:09+02:00</lastModificationDateTime>
+            <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T17:40:09+02:00</lastPublicationDateTime>
             <properties>
-             <title __type="string">&lt;h1&gt;Professionelt&lt;/h1&gt;</title>
+             <title __type="string">&lt;h1&gt;Solidt tømmerarbejde,&lt;/h1&gt;</title>
              <animate __type="string">turn-up</animate>
              <class __type="boolean">1</class>
             </properties>
            </variant>
           </node>
           <node identifier="5447f738-ec3e-4eeb-b348-483cf8de9f0d" nodeName="node-h1wc0r3taatsp">
-           <variant sortingIndex="350" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Headline" version="9" removed="" hidden="" hiddenInIndex="">
+           <variant sortingIndex="350" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Headline" version="10" removed="" hidden="" hiddenInIndex="">
             <dimensions>
              <language>en</language>
             </dimensions>
             <accessRoles __type="array"/>
             <creationDateTime __type="object" __classname="DateTime">2020-08-06T17:32:32+02:00</creationDateTime>
-            <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T10:26:41+02:00</lastModificationDateTime>
-            <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T10:26:41+02:00</lastPublicationDateTime>
+            <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T17:40:09+02:00</lastModificationDateTime>
+            <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T17:40:09+02:00</lastPublicationDateTime>
             <properties>
-             <title __type="string">&lt;h1&gt;tømrerarbejde og&lt;/h1&gt;</title>
+             <title __type="string">&lt;h1&gt;nytænkning, projektstyring&lt;/h1&gt;</title>
              <animate __type="string">turn-up</animate>
              <delay __type="string">100</delay>
             </properties>
@@ -190,16 +216,16 @@
            </variant>
           </node>
           <node identifier="d7585c4c-cf8c-43ba-8557-d7486d211589" nodeName="node-uw45947g62gid">
-           <variant sortingIndex="375" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Headline" version="7" removed="" hidden="" hiddenInIndex="">
+           <variant sortingIndex="375" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Headline" version="8" removed="" hidden="" hiddenInIndex="">
             <dimensions>
              <language>en</language>
             </dimensions>
             <accessRoles __type="array"/>
             <creationDateTime __type="object" __classname="DateTime">2020-08-06T17:32:45+02:00</creationDateTime>
-            <lastModificationDateTime __type="object" __classname="DateTime">2020-08-06T18:05:17+02:00</lastModificationDateTime>
-            <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-06T18:05:17+02:00</lastPublicationDateTime>
+            <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T17:40:09+02:00</lastModificationDateTime>
+            <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T17:40:09+02:00</lastPublicationDateTime>
             <properties>
-             <title __type="string">&lt;h1&gt;renovation&lt;/h1&gt;</title>
+             <title __type="string">&lt;h1&gt;&amp;amp; kreative løsninger&lt;/h1&gt;</title>
              <animate __type="string">turn-up</animate>
              <delay __type="string">200</delay>
             </properties>
@@ -240,17 +266,20 @@
      </node>
     </node>
     <node identifier="c4f63d97-88d3-4285-8d51-95420694f8e9" nodeName="node-3gx7y8ng64z3l">
-     <variant sortingIndex="188" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.Page" version="6" removed="" hidden="" hiddenInIndex="">
+     <variant sortingIndex="188" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.Page" version="9" removed="" hidden="" hiddenInIndex="">
       <dimensions>
        <language>en</language>
       </dimensions>
       <accessRoles __type="array"/>
       <creationDateTime __type="object" __classname="DateTime">2020-08-05T14:28:01+02:00</creationDateTime>
-      <lastModificationDateTime __type="object" __classname="DateTime">2020-08-05T16:21:28+02:00</lastModificationDateTime>
-      <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-05T16:21:27+02:00</lastPublicationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T18:04:41+02:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T18:04:40+02:00</lastPublicationDateTime>
       <properties>
        <uriPathSegment __type="string">info</uriPathSegment>
        <title __type="string">Info</title>
+       <titleOverride __type="string">Info - Kontakt os her</titleOverride>
+       <metaDescription __type="string">Byhåndværkeren er din lokale håndværker. Kontakt os for at få et uforpligtende tilbud på jeres næste projekt</metaDescription>
+       <metaKeywords __type="string">tømrer, håndværker, tilbud, kontakt, tømmerarbejde, nytænkning, projektstyring, kreative løsninger, håndarbejde, tilbud, privat, erhverv</metaKeywords>
       </properties>
      </variant>
      <node identifier="e6326db6-7d66-a82c-46df-d8be9c3567ea" nodeName="main">
@@ -336,16 +365,16 @@
             <properties/>
            </variant>
            <node identifier="c2f506b7-7d13-43e8-8ea9-0de6ba5d995d" nodeName="node-andzxxvi2rhu6">
-            <variant sortingIndex="388" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Headline" version="7" removed="" hidden="" hiddenInIndex="">
+            <variant sortingIndex="388" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Headline" version="10" removed="" hidden="" hiddenInIndex="">
              <dimensions>
               <language>en</language>
              </dimensions>
              <accessRoles __type="array"/>
              <creationDateTime __type="object" __classname="DateTime">2020-08-07T17:28:58+02:00</creationDateTime>
-             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T17:36:00+02:00</lastModificationDateTime>
-             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T17:36:00+02:00</lastPublicationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T17:47:23+02:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T17:47:23+02:00</lastPublicationDateTime>
              <properties>
-              <title __type="string">&lt;p&gt;Byhåndværkeren ejes og drives til dagligt af Daniel Pedersen. Navnet &lt;i&gt;Byhåndværkeren&lt;/i&gt; er baseret på ideén om at benytte den lokale arbejdsmand, som indgyder til en relation mellem tømrer og kunde, som både er professionel og personlig. Hos Byhåndværkeren får du leveret en ydelse af højeste kvalitet, og med stor faglig stolthed til håndværket og materialerne.&lt;/p&gt;</title>
+              <title __type="string">&lt;p&gt;Byhåndværkeren ejes og drives til dagligt af Daniel Pedersen. Navnet &lt;i&gt;Byhåndværkeren&lt;/i&gt; er baseret på ideén om at benytte den lokale håndværker som indgyder til en relation mellem tømrer og kunde, som både er professionel og personlig. Hos Byhåndværkeren får du leveret en ydelse af højeste kvalitet.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Vi har en stor &lt;strong&gt;faglig stolthed&lt;/strong&gt; til håndværket og er altid bevidste om materialevalget.&lt;/p&gt;</title>
              </properties>
             </variant>
            </node>
@@ -383,16 +412,16 @@
             </variant>
            </node>
            <node identifier="16c2f585-43ff-43ae-b8bd-afd9a6f13aec" nodeName="node-iyd4zyyjf35ye">
-            <variant sortingIndex="375" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Text" version="29" removed="" hidden="" hiddenInIndex="">
+            <variant sortingIndex="375" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Text" version="30" removed="" hidden="" hiddenInIndex="">
              <dimensions>
               <language>en</language>
              </dimensions>
              <accessRoles __type="array"/>
              <creationDateTime __type="object" __classname="DateTime">2020-08-07T16:30:14+02:00</creationDateTime>
-             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T17:27:49+02:00</lastModificationDateTime>
-             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T17:27:49+02:00</lastPublicationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T17:46:57+02:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T17:46:57+02:00</lastPublicationDateTime>
              <properties>
-              <text __type="string">&lt;h2&gt;Kontakt mig på&lt;/h2&gt;&lt;p&gt;Tlf.: &lt;a href=&quot;tel:+4523840071&quot;&gt;+45 23 84 00 71&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Mail: &lt;a href=&quot;mailto:daniel@byhaandvaerkeren.dk&quot;&gt;daniel@byhaandvaerkeren.dk&lt;/a&gt;&amp;nbsp;&lt;/p&gt;</text>
+              <text __type="string">&lt;h2&gt;Kontakt mig på&lt;/h2&gt;&lt;p&gt;Tlf.: &lt;a href=&quot;tel:+4523840071&quot;&gt;+45 23 84 00 71&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Mail: &lt;a href=&quot;mailto:byhaandvaerkeren@gmail.com&quot; target=&quot;_blank&quot;&gt;byhaandvaerkeren@gmail.com&lt;/a&gt;&amp;nbsp;&lt;/p&gt;</text>
              </properties>
             </variant>
            </node>
@@ -430,17 +459,20 @@
      </node>
     </node>
     <node identifier="48407f6c-11d7-43fb-8638-b9b2c05696ad" nodeName="node-96s8il6kd3djm">
-     <variant sortingIndex="125" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.Page" version="3" removed="" hidden="" hiddenInIndex="">
+     <variant sortingIndex="125" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.Page" version="7" removed="" hidden="" hiddenInIndex="">
       <dimensions>
        <language>en</language>
       </dimensions>
       <accessRoles __type="array"/>
       <creationDateTime __type="object" __classname="DateTime">2020-08-05T14:27:20+02:00</creationDateTime>
-      <lastModificationDateTime __type="object" __classname="DateTime">2020-08-05T14:29:06+02:00</lastModificationDateTime>
-      <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-05T14:29:06+02:00</lastPublicationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T18:05:27+02:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T18:05:26+02:00</lastPublicationDateTime>
       <properties>
        <uriPathSegment __type="string">ydelser</uriPathSegment>
        <title __type="string">Ydelser</title>
+       <titleOverride __type="string">Ydelser - Solidt tømmerarbejde og kreative løsninger</titleOverride>
+       <metaDescription __type="string">Solidt dansk tømmerarbejde. Vi tager gerne en snak om, hvordan vi kan hjælpe jer i mål med projektet</metaDescription>
+       <metaKeywords __type="string">tømrer, håndværker, tilbud, tømmerarbejde, nytænkning, projektstyring, kreative løsninger, håndarbejde, tilbud, privat, erhverv</metaKeywords>
       </properties>
      </variant>
      <node identifier="ab0b6e7e-6f7e-17c8-a848-1e385885bd6a" nodeName="main">
@@ -543,30 +575,30 @@
             </variant>
            </node>
            <node identifier="f42b2404-ce61-4a41-a784-74d6e04c87f0" nodeName="node-kj4ym4dv3ls8d">
-            <variant sortingIndex="425" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Headline" version="23" removed="" hidden="" hiddenInIndex="">
+            <variant sortingIndex="425" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Headline" version="24" removed="" hidden="" hiddenInIndex="">
              <dimensions>
               <language>en</language>
              </dimensions>
              <accessRoles __type="array"/>
              <creationDateTime __type="object" __classname="DateTime">2020-08-07T17:41:26+02:00</creationDateTime>
-             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T17:43:30+02:00</lastModificationDateTime>
-             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T17:43:30+02:00</lastPublicationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T17:44:50+02:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T17:44:50+02:00</lastPublicationDateTime>
              <properties>
-              <title __type="string">&lt;p&gt;Føler I, at jeres projekt ikke passer ind under vores kompetenceområder, så tager vi gerne en snak om, hvad vi kan hjælpe jer med. Kontakt mig på nedenstående:&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Tlf.: &lt;a href=&quot;tel:+4523840071&quot;&gt;+45 23 84 00 71&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Mail: &lt;a href=&quot;mailto:daniel@byhaandvaerkeren.dk&quot;&gt;daniel@byhaandvaerkeren.dk&lt;/a&gt;&lt;/p&gt;</title>
+              <title __type="string">&lt;p&gt;Ligger jeres projekt udover overstående, er vores kompetenceområde større&amp;nbsp; - og vi tager gerne en snak om, hvordan vi kan hjælpe jer i mål med projektet. Kontakt os på nedstående:&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Tlf.: &lt;a href=&quot;tel:+4523840071&quot;&gt;+45 23 84 00 71&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Mail: &lt;a href=&quot;mailto:byhaandvaerkeren@gmail.com&quot; target=&quot;_blank&quot;&gt;byhaandvaerkeren@gmail.com&lt;/a&gt;&lt;/p&gt;</title>
              </properties>
             </variant>
            </node>
            <node identifier="af1341f2-9f44-4618-98a2-0036ddb084e7" nodeName="node-z1nv4x1hko66m">
-            <variant sortingIndex="375" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Text" version="5" removed="" hidden="" hiddenInIndex="">
+            <variant sortingIndex="375" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Text" version="6" removed="" hidden="" hiddenInIndex="">
              <dimensions>
               <language>en</language>
              </dimensions>
              <accessRoles __type="array"/>
              <creationDateTime __type="object" __classname="DateTime">2020-08-07T17:38:01+02:00</creationDateTime>
-             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T17:41:05+02:00</lastModificationDateTime>
-             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T17:41:05+02:00</lastPublicationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T17:44:21+02:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T17:44:21+02:00</lastPublicationDateTime>
              <properties>
-              <text __type="string">&lt;h2&gt;Renovering&lt;/h2&gt;&lt;h2&gt;Tilbygning&lt;/h2&gt;&lt;h2&gt;Installation&lt;/h2&gt;&lt;h2&gt;Taglægning&lt;/h2&gt;&lt;h2&gt;Isolering&lt;/h2&gt;</text>
+              <text __type="string">&lt;h2&gt;Istandsættelse&lt;/h2&gt;&lt;h2&gt;Ombygning&lt;/h2&gt;&lt;h2&gt;Renovering&lt;/h2&gt;&lt;h2&gt;Tilbygning&lt;/h2&gt;&lt;h2&gt;Taglægning&lt;/h2&gt;&lt;h2&gt;Udskiftning af døre og vinduer&lt;/h2&gt;</text>
              </properties>
             </variant>
            </node>
@@ -618,17 +650,20 @@
      </node>
     </node>
     <node identifier="d4300c7e-6a41-47b0-bc66-325f65a4c5c4" nodeName="node-bdxgeq1ubrz1g">
-     <variant sortingIndex="150" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.Page" version="4" removed="" hidden="" hiddenInIndex="">
+     <variant sortingIndex="150" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.Page" version="8" removed="" hidden="" hiddenInIndex="">
       <dimensions>
        <language>en</language>
       </dimensions>
       <accessRoles __type="array"/>
       <creationDateTime __type="object" __classname="DateTime">2020-08-05T14:27:41+02:00</creationDateTime>
-      <lastModificationDateTime __type="object" __classname="DateTime">2020-08-05T14:29:06+02:00</lastModificationDateTime>
-      <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-05T14:29:06+02:00</lastPublicationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T18:05:20+02:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T18:05:20+02:00</lastPublicationDateTime>
       <properties>
        <uriPathSegment __type="string">projekter</uriPathSegment>
        <title __type="string">Projekter</title>
+       <metaKeywords __type="string">tømrer, håndværker, tilbud, tømmerarbejde, nytænkning, projektstyring, kreative løsninger, håndarbejde, tilbud, privat, erhverv</metaKeywords>
+       <metaDescription __type="string">Har i brug for projektstyring på jeres næste opgave? Vi yder projektstyring både for private og erhverv</metaDescription>
+       <titleOverride __type="string">Projekter - Solid tømmerarbejde &amp; kreative løsninger</titleOverride>
       </properties>
      </variant>
      <node identifier="eedadd3b-e0d1-1b31-9b0a-fd9fa55c6b81" nodeName="main">
@@ -730,16 +765,16 @@
             </variant>
            </node>
            <node identifier="a224d4dc-26af-4077-9e69-ce9d4184e585" nodeName="node-cl4rr7ae86zfh">
-            <variant sortingIndex="400" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Text" version="5" removed="" hidden="" hiddenInIndex="">
+            <variant sortingIndex="400" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Text" version="6" removed="" hidden="" hiddenInIndex="">
              <dimensions>
               <language>en</language>
              </dimensions>
              <accessRoles __type="array"/>
              <creationDateTime __type="object" __classname="DateTime">2020-08-06T15:51:43+02:00</creationDateTime>
-             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-06T18:22:33+02:00</lastModificationDateTime>
-             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-06T18:22:33+02:00</lastPublicationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T17:45:10+02:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T17:45:10+02:00</lastPublicationDateTime>
              <properties>
-              <text __type="string">&lt;p&gt;Vi laver selvfølgelig mange forskellige opgaver, men herunder kan i se et udvalg af de løsninger, vi har leveret til vores kunder.&lt;/p&gt;</text>
+              <text __type="string">&lt;p&gt;Vi laver selvfølgelig mange forskellige opgaver. Herunder kan i se et udvalg af de løsninger, vi har leveret til vores kunder.&lt;/p&gt;</text>
              </properties>
             </variant>
            </node>
@@ -791,16 +826,16 @@
             </variant>
            </node>
            <node identifier="fed22810-2c41-40ef-bdee-276bb6edbadb" nodeName="node-migtmty02nlab">
-            <variant sortingIndex="441" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Headline" version="8" removed="" hidden="" hiddenInIndex="">
+            <variant sortingIndex="441" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Headline" version="9" removed="" hidden="" hiddenInIndex="">
              <dimensions>
               <language>en</language>
              </dimensions>
              <accessRoles __type="array"/>
              <creationDateTime __type="object" __classname="DateTime">2020-08-06T18:22:43+02:00</creationDateTime>
-             <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T16:19:23+02:00</lastModificationDateTime>
-             <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:19:23+02:00</lastPublicationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T17:46:16+02:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T17:46:16+02:00</lastPublicationDateTime>
              <properties>
-              <title __type="string">&lt;h2&gt;&lt;a href=&quot;node://eb570b82-c9a7-47c4-b638-feb5ab11bdab&quot;&gt;Opsætning af hal&lt;/a&gt;&lt;/h2&gt;</title>
+              <title __type="string">&lt;h2&gt;&lt;a href=&quot;node://eb570b82-c9a7-47c4-b638-feb5ab11bdab&quot;&gt;Ny værkstedshal&lt;/a&gt;&lt;/h2&gt;</title>
               <animate __type="string">turn-up</animate>
               <delay __type="string">400</delay>
              </properties>
@@ -872,17 +907,20 @@
       </node>
      </node>
      <node identifier="723644ad-5b32-440d-b732-b4be44498f38" nodeName="node-c9c1lhnivwh7g">
-      <variant sortingIndex="419" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.Page" version="4" removed="" hidden="" hiddenInIndex="1">
+      <variant sortingIndex="419" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.Page" version="6" removed="" hidden="" hiddenInIndex="1">
        <dimensions>
         <language>en</language>
        </dimensions>
        <accessRoles __type="array"/>
        <creationDateTime __type="object" __classname="DateTime">2020-08-07T16:21:01+02:00</creationDateTime>
-       <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T16:23:29+02:00</lastModificationDateTime>
-       <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:23:29+02:00</lastPublicationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T18:04:47+02:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T18:04:47+02:00</lastPublicationDateTime>
        <properties>
         <uriPathSegment __type="string">projekt-4</uriPathSegment>
         <title __type="string">Projekt-4</title>
+        <titleOverride __type="string">Projekter - Mindre opgaver</titleOverride>
+        <metaKeywords __type="string">tømrer, håndværker, tilbud, cykelskur, vinkælder, spisebord, tømmerarbejde, nytænkning, projektstyring, kreative løsninger, håndarbejde, tilbud, privat, erhverv</metaKeywords>
+        <metaDescription __type="string">Vi nytænker de klassiske løsninger. Kontakt os, hvis i har et mindre projekt, i gerne vil have et tilbud på.</metaDescription>
        </properties>
       </variant>
       <node identifier="7ecffa17-ce0a-0c4d-1465-9638ded3e409" nodeName="main">
@@ -1100,17 +1138,20 @@
       </node>
      </node>
      <node identifier="83eda64c-cfcf-4e92-bf41-30aabf929537" nodeName="node-fl8hmbwd81i0u">
-      <variant sortingIndex="319" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.Page" version="4" removed="" hidden="" hiddenInIndex="1">
+      <variant sortingIndex="319" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.Page" version="8" removed="" hidden="" hiddenInIndex="1">
        <dimensions>
         <language>en</language>
        </dimensions>
        <accessRoles __type="array"/>
        <creationDateTime __type="object" __classname="DateTime">2020-08-07T15:08:48+02:00</creationDateTime>
-       <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T15:09:25+02:00</lastModificationDateTime>
-       <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T15:09:25+02:00</lastPublicationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T18:05:03+02:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T18:05:02+02:00</lastPublicationDateTime>
        <properties>
         <uriPathSegment __type="string">projekt-2</uriPathSegment>
         <title __type="string">Projekt-2</title>
+        <titleOverride __type="string">Projekter - Rum i et rum</titleOverride>
+        <metaKeywords __type="string">tømrer, håndværker, tilbud, brandstation, rum, mødelokale, hal, tømmerarbejde, nytænkning, projektstyring, kreative løsninger, håndarbejde, tilbud, privat, erhverv</metaKeywords>
+        <metaDescription __type="string">I denne brandstation har vi bygget et rum, i et rum, der bruges til mødelokale. Kontakt os, hvis i ønsker en lignende opsætning</metaDescription>
        </properties>
       </variant>
       <node identifier="72839076-5d1b-7d28-88cb-112db9489046" nodeName="main">
@@ -1481,17 +1522,20 @@
       </node>
      </node>
      <node identifier="d62fb319-aac2-4c88-bcf5-5d3461adac98" nodeName="node-iyg45ywm6m3ti">
-      <variant sortingIndex="269" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.Page" version="3" removed="" hidden="" hiddenInIndex="1">
+      <variant sortingIndex="269" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.Page" version="7" removed="" hidden="" hiddenInIndex="1">
        <dimensions>
         <language>en</language>
        </dimensions>
        <accessRoles __type="array"/>
        <creationDateTime __type="object" __classname="DateTime">2020-08-06T16:05:04+02:00</creationDateTime>
-       <lastModificationDateTime __type="object" __classname="DateTime">2020-08-06T16:05:09+02:00</lastModificationDateTime>
-       <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-06T16:05:09+02:00</lastPublicationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T18:05:13+02:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T18:05:13+02:00</lastPublicationDateTime>
        <properties>
         <uriPathSegment __type="string">projekt-1</uriPathSegment>
         <title __type="string">Projekt-1</title>
+        <metaKeywords __type="string">tømrer, håndværker, tilbud, hanstholm, køkken, opsætning, kvalitet, design, tømmerarbejde, nytænkning, projektstyring, kreative løsninger, håndarbejde, tilbud, privat, erhverv</metaKeywords>
+        <metaDescription __type="string">Dette Hanstholm køkken var en af vores største fornøjelser, og kundens ønske om at have et køkken i tidsløst design og eksklusiv kvalitet, gik i opfyldelse.</metaDescription>
+        <titleOverride __type="string">Projekter - Opsætning af luksuriøst Hanstholm køkken</titleOverride>
        </properties>
       </variant>
       <node identifier="c8ef29cb-c364-b079-628d-b978252cd6d1" nodeName="main">
@@ -1843,16 +1887,16 @@
           </variant>
          </node>
          <node identifier="e265ceea-5196-4471-9759-e653fa70f64b" nodeName="node-aq2hqlhfs5092">
-          <variant sortingIndex="350" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Text" version="9" removed="" hidden="" hiddenInIndex="">
+          <variant sortingIndex="350" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Text" version="10" removed="" hidden="" hiddenInIndex="">
            <dimensions>
             <language>en</language>
            </dimensions>
            <accessRoles __type="array"/>
            <creationDateTime __type="object" __classname="DateTime">2020-08-06T16:05:58+02:00</creationDateTime>
-           <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T12:41:05+02:00</lastModificationDateTime>
-           <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T12:41:05+02:00</lastPublicationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T17:45:32+02:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T17:45:32+02:00</lastPublicationDateTime>
            <properties>
-            <text __type="string">&lt;p style=&quot;text-align:center;&quot;&gt;At opsætte dette Hanstholm køkken var en af vores største fornøjelser, og kundens ønske om at have et køkken i tidsløst design og eksklusiv kvalitet, gik i opfyldelse. Materialevalget var i top, så vi gik naturligvis ikke på kompromis med én eneste løsning til denne opgave. Der er ingen synlige skruer, alle låger og skuffer er rettet til så det hele ser lækkert ud. Det endelige resultat er blevet super godt og køkkenet, og alle rum, hvor køkken kan ses fra, føles helt igennem eksklusivt.&lt;/p&gt;</text>
+            <text __type="string">&lt;p style=&quot;text-align:center;&quot;&gt;At opsætte dette Hanstholm køkken var en af vores største fornøjelser, og kundens ønske om at have et køkken i tidsløst design og eksklusiv kvalitet, gik i opfyldelse. Materialevalget var i top, så vi gik naturligvis ikke på kompromis med én eneste løsning til denne opgave.&lt;/p&gt;</text>
            </properties>
           </variant>
          </node>
@@ -1970,17 +2014,20 @@
       </node>
      </node>
      <node identifier="eb570b82-c9a7-47c4-b638-feb5ab11bdab" nodeName="node-m627053vbtmw6">
-      <variant sortingIndex="369" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.Page" version="4" removed="" hidden="" hiddenInIndex="1">
+      <variant sortingIndex="369" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.Page" version="7" removed="" hidden="" hiddenInIndex="1">
        <dimensions>
         <language>en</language>
        </dimensions>
        <accessRoles __type="array"/>
        <creationDateTime __type="object" __classname="DateTime">2020-08-07T15:52:53+02:00</creationDateTime>
-       <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T15:58:59+02:00</lastModificationDateTime>
-       <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T15:58:59+02:00</lastPublicationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T18:04:55+02:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T18:04:55+02:00</lastPublicationDateTime>
        <properties>
         <uriPathSegment __type="string">projekt-3</uriPathSegment>
         <title __type="string">Projekt-3</title>
+        <metaKeywords __type="string">tømrer, håndværker, tilbud, brandstation, rum, mødelokale, hal, tømmerarbejde, nytænkning, projektstyring, kreative løsninger, håndarbejde, tilbud, privat, erhverv</metaKeywords>
+        <metaDescription __type="string">I denne brandstation har vi opsat en ny hal, der bruges til produktion, og som er bygget efter alle sikkerhedsregler og isoleringskrav</metaDescription>
+        <titleOverride __type="string">Projekter - Nyt værkstedshal</titleOverride>
        </properties>
       </variant>
       <node identifier="dd98c1fa-e978-3147-83e5-895919b93564" nodeName="main">
@@ -2019,30 +2066,30 @@
           <properties/>
          </variant>
          <node identifier="ee56c572-6446-4740-adf3-1612d6805269" nodeName="node-aq2hqlhfs5092">
-          <variant sortingIndex="350" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Text" version="3" removed="" hidden="" hiddenInIndex="">
+          <variant sortingIndex="350" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Text" version="4" removed="" hidden="" hiddenInIndex="">
            <dimensions>
             <language>en</language>
            </dimensions>
            <accessRoles __type="array"/>
            <creationDateTime __type="object" __classname="DateTime">2020-08-07T15:54:50+02:00</creationDateTime>
-           <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T16:01:19+02:00</lastModificationDateTime>
-           <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:01:19+02:00</lastPublicationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T17:46:27+02:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T17:46:27+02:00</lastPublicationDateTime>
            <properties>
-            <text __type="string">&lt;p style=&quot;text-align:center;&quot;&gt;På dette værksted, som servicerer brandbiler, har vi opsat en ny hal, der bruges til produktion, og som er bygget efter skrappe sikkerhedsregler. Den gamle hal brændte ned, og det gav mulighed for at tænke i nye baner. Der er monteret TrollTex i loftet, der er lavet port og skrid- og slidsikkert gulv.&lt;/p&gt;</text>
+            <text __type="string">&lt;p style=&quot;text-align:center;&quot;&gt;På dette værksted, som servicerer brandbiler, har vi opsat en ny hal, der bruges til produktion, og som er bygget efter alle sikkerhedsregler og isoleringskrav. Den gamle hal brændte ned, og det gav mulighed for at tænke i nye baner. Der er monteret troldtekt i loftet, der er lavet port og skrid- og slidsikkert gulv.&lt;/p&gt;</text>
            </properties>
           </variant>
          </node>
          <node identifier="3bdc806a-6b20-4326-b07c-eb5a11d01c56" nodeName="node-i17ijjvy0v02d">
-          <variant sortingIndex="175" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Headline" version="3" removed="" hidden="" hiddenInIndex="">
+          <variant sortingIndex="175" workspace="live" nodeType="Byhaandvaerkeren.Site:Content.Headline" version="4" removed="" hidden="" hiddenInIndex="">
            <dimensions>
             <language>en</language>
            </dimensions>
            <accessRoles __type="array"/>
            <creationDateTime __type="object" __classname="DateTime">2020-08-07T15:54:50+02:00</creationDateTime>
-           <lastModificationDateTime __type="object" __classname="DateTime">2020-08-07T16:01:19+02:00</lastModificationDateTime>
-           <lastPublicationDateTime __type="object" __classname="DateTime">2020-08-07T16:01:19+02:00</lastPublicationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T17:46:27+02:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T17:46:27+02:00</lastPublicationDateTime>
            <properties>
-            <title __type="string">&lt;h1 style=&quot;text-align:center;&quot;&gt;Opsætning af arbejdshal&lt;/h1&gt;</title>
+            <title __type="string">&lt;h1 style=&quot;text-align:center;&quot;&gt;Ny værkstedshal&lt;/h1&gt;</title>
             <animate __type="string">turn-up</animate>
            </properties>
           </variant>
@@ -2255,6 +2302,24 @@
        <metaRobotsNoindex __type="boolean">1</metaRobotsNoindex>
       </properties>
      </variant>
+     <variant sortingIndex="200" workspace="live" nodeType="Byhaandvaerkeren.Site:Document.Page" version="5" removed="" hidden="" hiddenInIndex="1">
+      <dimensions>
+       <language>en</language>
+      </dimensions>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2020-09-01T18:03:42+02:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T18:04:32+02:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T18:04:32+02:00</lastPublicationDateTime>
+      <properties>
+       <uriPathSegment __type="string">notfound</uriPathSegment>
+       <title __type="string">Page not found</title>
+       <_hiddenInIndex __type="boolean">1</_hiddenInIndex>
+       <metaRobotsNoindex __type="boolean">1</metaRobotsNoindex>
+       <metaDescription __type="string">Byhåndværkeren er din lokale håndværker. Kontakt os for at få et uforpligtende tilbud på jeres næste projekt</metaDescription>
+       <metaKeywords __type="string">tømrer, håndværker, tilbud, kontakt, tømmerarbejde, nytænkning, projektstyring, kreative løsninger, håndarbejde, tilbud, privat, erhverv</metaKeywords>
+       <titleOverride __type="string">404 - siden blev ikke fundet</titleOverride>
+      </properties>
+     </variant>
      <node identifier="c78a1120-2f5f-325f-23b8-670263d72d0d" nodeName="main">
       <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
        <dimensions/>
@@ -2262,6 +2327,16 @@
        <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:21:39+02:00</creationDateTime>
        <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:23:05+02:00</lastModificationDateTime>
        <lastPublicationDateTime __type="object" __classname="DateTime">2018-06-26T23:23:05+02:00</lastPublicationDateTime>
+       <properties/>
+      </variant>
+      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2020-09-01T18:03:42+02:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2020-09-01T18:04:04+02:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2020-09-01T18:04:04+02:00</lastPublicationDateTime>
        <properties/>
       </variant>
       <node identifier="5e980adb-2a4d-4ec8-b1c9-bbb8a03020bf" nodeName="node-zh0vjllbdgh62">
