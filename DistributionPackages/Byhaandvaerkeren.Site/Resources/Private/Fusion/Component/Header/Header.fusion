@@ -28,11 +28,10 @@ prototype(Byhaandvaerkeren.Site:Component.Header) < prototype(Neos.Fusion:Compon
     renderer = afx`
         <header>
             <nav>
-                <a class="logo" href={props.homeLink}>
-                    <img src={props.logoUri} alt="Byhåndværkeren logo" width="200px"/>
-                    <img src={props.whiteLogoUri} alt="Byhåndværkeren logo" width="200px"/>
-                </a>
                 <div class="navigation-container">
+                    <a class="logo" href={props.homeLink}>
+                        <img src={props.logoUri} alt="Byhåndværkeren logo" width="200px"/>
+                    </a>
                     <Byhaandvaerkeren.Site:Component.Header.MenuItemsRenderer items={props.menuItems} />
                     <div class="kontakt-cta">
                         <ul>
