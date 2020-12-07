@@ -13,7 +13,7 @@ Carbon:
         # Asset files who get's loaded in live and backend view
         General:
           Head:
-            - https://cmp.osano.com/gHALSHpBbTWANnh/1eedccff-4ce4-40ba-a6ae-521a6bd29ced/osano.js"
+            - https://cmp.osano.com/gHALSHpBbTWANnh/1eedccff-4ce4-40ba-a6ae-521a6bd29ced/osano.js
             - main.css
             - aos.css
           Body:
